@@ -1,62 +1,33 @@
 <!doctype html>
 <html lang="es">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Vuelos baratos</title>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vuelos baratos · Mis alertas</title>
 <style>
-  :root { --bg:#0f1115; --card:#1a1d24; --txt:#f2f3f5; --mut:#9aa0ac; --acc:#ffd23f; }
-  * { box-sizing:border-box; }
-  body { margin:0; font-family:system-ui,sans-serif; background:var(--bg); color:var(--txt); padding:16px; max-width:720px; margin-inline:auto; }
-  h1 { font-size:1.4rem; margin:0 0 4px; }
-  #upd { color:var(--mut); font-size:.8rem; margin-bottom:16px; }
-  .filters { display:grid; gap:12px; background:var(--card); padding:14px; border-radius:14px; margin-bottom:16px; }
-  label { font-size:.85rem; color:var(--mut); display:grid; gap:6px; }
-  select, input { width:100%; padding:10px; border-radius:10px; border:0; background:#262a33; color:var(--txt); font-size:1rem; }
-  .row { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
-  .deal { display:flex; justify-content:space-between; align-items:center; background:var(--card); padding:14px; border-radius:14px; margin-bottom:10px; text-decoration:none; color:inherit; }
-  .route { font-weight:700; }
-  .meta { color:var(--mut); font-size:.85rem; margin-top:4px; }
-  .price { color:var(--acc); font-size:1.5rem; font-weight:800; }
+:root{--bg:#0f1115;--card:#1a1d24;--txt:#f2f3f5;--mut:#9aa0ac;--acc:#ffd23f}*{box-sizing:border-box}body{margin:0 auto;max-width:720px;padding:16px;font-family:system-ui,sans-serif;background:var(--bg);color:var(--txt)}h1{font-size:1.45rem;margin:0 0 5px}h2{font-size:1.1rem;margin:0 0 12px}.muted,#upd{color:var(--mut);font-size:.85rem}.panel{background:var(--card);border-radius:14px;padding:15px;margin:16px 0}label{font-size:.85rem;color:var(--mut);display:grid;gap:6px}input,select{width:100%;padding:10px;border:0;border-radius:10px;background:#262a33;color:var(--txt);font-size:1rem}.row{display:grid;grid-template-columns:1fr 1fr;gap:10px}.stack{display:grid;gap:12px}.deal,.alert{display:flex;justify-content:space-between;align-items:center;gap:12px;background:var(--card);padding:14px;border-radius:14px;margin:10px 0;color:inherit;text-decoration:none}.route{font-weight:700}.meta{color:var(--mut);font-size:.85rem;margin-top:4px}.price{color:var(--acc);font-size:1.45rem;font-weight:800}button{padding:10px 14px;border-radius:10px;border:0;background:var(--acc);color:#171717;font-weight:700;cursor:pointer}button.secondary{background:#303540;color:var(--txt)}.actions{display:flex;gap:7px;flex-wrap:wrap}.notice{padding:12px;border:1px solid #666;border-radius:10px;font-size:.85rem;color:var(--mut)}.hidden{display:none}input[type=checkbox]{width:auto;accent-color:var(--acc)}
 </style>
 </head>
 <body>
-<h1>✈️ Vuelos baratos</h1>
-<div id="upd">Cargando…</div>
-<div class="filters">
-  <label>Salgo desde <select id="origin"></select></label>
-  <div class="row">
-    <label>Precio máx. (€) <input id="max" type="number" value="60"></label>
-    <label>Destino (opcional) <input id="dest" placeholder="ej. LON"></label>
-  </div>
-  <div class="row">
-    <label>Días mín. <input id="dmin" type="number" value="3"></label>
-    <label>Días máx. <input id="dmax" type="number" value="10"></label>
-  </div>
-</div>
+<h1>✈️ Vuelos baratos</h1><div id="upd">Cargando…</div>
+<section class="panel stack"><h2>Buscar ofertas</h2><label>Salgo desde<select id="origin"><option value="ALC">Alicante (ALC)</option><option value="RMU">Murcia (RMU)</option></select></label><div class="row"><label>Precio máx. (€)<input id="max" type="number" min="0" value="60"></label><label>Destino (opcional)<input id="dest" placeholder="ej. ROM"></label></div><div class="row"><label>Días mín.<input id="dmin" type="number" min="0" value="3"></label><label>Días máx.<input id="dmax" type="number" min="0" value="10"></label></div></section>
 <div id="list"></div>
+<section class="panel stack"><h2>🔔 Mis alertas</h2><p class="muted">Prepara tus alertas aquí y exporta el archivo de configuración. Para recibir notificaciones automáticas, deberás incorporarlo al repositorio que ejecuta GitHub Actions.</p><form id="alertForm" class="stack"><input id="editIndex" type="hidden"><label>Nombre de la alerta<input id="aname" required placeholder="Ej. Puente en Roma"></label><div class="row"><label>Origen<select id="aorigin"><option value="ALC">Alicante</option><option value="RMU">Murcia</option></select></label><label>Destino (código IATA)<input id="adest" required maxlength="3" pattern="[A-Za-z]{3}" placeholder="ROM"></label></div><div class="row"><label>Ida exacta<input id="adep" required type="date"></label><label>Vuelta exacta<input id="aret" required type="date"></label></div><label>Precio máximo (€)<input id="aprice" type="number" min="1" step="1" required value="50"></label><label style="display:flex;align-items:center;gap:8px"><input id="aenabled" type="checkbox" checked> Alerta activa</label><div class="actions"><button type="submit">Guardar alerta</button><button type="button" id="reset" class="secondary">Limpiar</button></div></form><div id="alerts"></div><button id="export" type="button">⬇ Exportar config.json</button><div class="notice">⚠️ Las alertas guardadas aquí permanecen solo en este navegador hasta que exportes y subas el archivo a GitHub. Este botón no activa por sí solo los avisos de Telegram.</div></section>
 <script>
-let data = [];
-const $ = id => document.getElementById(id);
-fetch("deals.json").then(r => r.json()).then(j => {
-  data = j.deals;
-  $("upd").textContent = "Actualizado: " + new Date(j.updated).toLocaleString("es-ES");
-  const origins = [...new Set(data.map(d => d.origin))];
-  $("origin").innerHTML = origins.map(o => `<option>${o}</option>`).join("");
-  render();
-}).catch(() => $("upd").textContent = "No hay deals.json todavía: ejecuta fetch_deals.py");
-["origin","max","dest","dmin","dmax"].forEach(id => $(id).addEventListener("input", render));
-function render() {
-  const o = $("origin").value, max = +$("max").value || 1e9, dest = $("dest").value.trim().toUpperCase();
-  const dmin = +$("dmin").value || 0, dmax = +$("dmax").value || 999;
-  const rows = data.filter(d => d.origin === o && d.price <= max && d.days >= dmin && d.days <= dmax && (!dest || d.destination === dest)).slice(0, 50);
-  $("list").innerHTML = rows.map(d => `
-    <a class="deal" href="${d.link}" target="_blank" rel="noopener">
-      <div><div class="route">${d.origin} → ${d.destination}</div>
-      <div class="meta">${d.departure} – ${d.return} · ${d.days} días · ${d.airline}${d.transfers ? " · " + d.transfers + " esc." : " · directo"}</div></div>
-      <div class="price">${d.price}€</div>
-    </a>`).join("") || '<p class="meta">Sin resultados con estos filtros.</p>';
-}
+'use strict';
+const $=id=>document.getElementById(id);let data=[];
+const baseConfig={airports:['ALC','RMU'],alert_airports:['ALC','RMU'],min_days:3,max_days:10,max_price:60,months_ahead:3,currency:'eur'};
+const safe=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let alerts=[];try{const stored=JSON.parse(localStorage.getItem('vuelos_alertas_v1')||'[]');if(Array.isArray(stored))alerts=stored;}catch(e){}
+function save(){localStorage.setItem('vuelos_alertas_v1',JSON.stringify(alerts));drawAlerts()}
+function drawAlerts(){const el=$('alerts');el.replaceChildren();if(!alerts.length){el.textContent='Aún no has creado alertas.';return}alerts.forEach((a,i)=>{const div=document.createElement('div');div.className='alert';const info=document.createElement('div');const heading=document.createElement('div');heading.className='route';heading.textContent=`${a.origin} → ${a.destination} ${a.enabled?'🔔':'🔕'}`;const detail=document.createElement('div');detail.className='meta';detail.textContent=`${a.name} · ${a.departure} / ${a.return} · máximo ${a.max_price} €`;info.append(heading,detail);const controls=document.createElement('div');controls.className='actions';[['Editar',()=>edit(i)],['Eliminar',()=>{if(confirm('¿Eliminar esta alerta?')){alerts.splice(i,1);save()}}]].forEach(([label,fn])=>{const b=document.createElement('button');b.type='button';b.className='secondary';b.textContent=label;b.addEventListener('click',fn);controls.append(b)});div.append(info,controls);el.append(div)})}
+function edit(i){const a=alerts[i];$('editIndex').value=i;$('aname').value=a.name;$('aorigin').value=a.origin;$('adest').value=a.destination;$('adep').value=a.departure;$('aret').value=a.return;$('aprice').value=a.max_price;$('aenabled').checked=a.enabled;$('alertForm').scrollIntoView({behavior:'smooth'})}
+function reset(){ $('alertForm').reset();$('editIndex').value='';}
+$('reset').addEventListener('click',reset);
+$('alertForm').addEventListener('submit',e=>{e.preventDefault();const dep=$('adep').value,ret=$('aret').value;if(ret<dep){alert('La vuelta debe ser posterior a la ida.');return}const a={name:$('aname').value.trim(),origin:$('aorigin').value,destination:$('adest').value.trim().toUpperCase(),departure:dep,return:ret,max_price:Number($('aprice').value),enabled:$('aenabled').checked};const idx=$('editIndex').value;if(idx==='')alerts.push(a);else alerts[Number(idx)]=a;save();reset()});
+$('export').addEventListener('click',()=>{const cfg={...baseConfig,specific_searches:alerts};const blob=new Blob([JSON.stringify(cfg,null,2)+'\n'],{type:'application/json'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='config.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)});
+fetch('deals.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Sin datos');return r.json()}).then(j=>{data=Array.isArray(j.deals)?j.deals:[];$('upd').textContent='Actualizado: '+new Date(j.updated).toLocaleString('es-ES');const origins=[...new Set(data.map(d=>d.origin))];$('origin').replaceChildren();(origins.length?origins:['ALC','RMU']).forEach(o=>{const op=document.createElement('option');op.value=o;op.textContent=o;$('origin').append(op)});render()}).catch(()=>$('upd').textContent='No hay deals.json todavía: ejecuta fetch_deals.py');
+['origin','max','dest','dmin','dmax'].forEach(id=>$(id).addEventListener('input',render));
+function render(){const o=$('origin').value,max=Number($('max').value)||1e9,dest=$('dest').value.trim().toUpperCase(),dmin=Number($('dmin').value)||0,dmax=Number($('dmax').value)||999;const rows=data.filter(d=>d.origin===o&&d.price<=max&&d.days>=dmin&&d.days<=dmax&&(!dest||d.destination===dest)).slice(0,50);const list=$('list');list.replaceChildren();if(!rows.length){const p=document.createElement('p');p.className='meta';p.textContent='Sin resultados con estos filtros.';list.append(p);return}rows.forEach(d=>{const a=document.createElement('a');a.className='deal';if(/^https:\/\//.test(d.link)){a.href=d.link;a.target='_blank';a.rel='noopener noreferrer'}const info=document.createElement('div'),route=document.createElement('div'),meta=document.createElement('div'),price=document.createElement('div');route.className='route';route.textContent=`${d.origin} → ${d.destination}`;meta.className='meta';meta.textContent=`${d.departure} – ${d.return} · ${d.days} días · ${d.airline||''}${d.transfers?' · '+d.transfers+' esc.':' · directo'}`;price.className='price';price.textContent=d.price+'€';info.append(route,meta);a.append(info,price);list.append(a)})}
+drawAlerts();
 </script>
-</body>
-</html>
+</body></html>
