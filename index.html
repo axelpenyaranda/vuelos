@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vuelos baratos</title>
+<style>
+  :root { --bg:#0f1115; --card:#1a1d24; --txt:#f2f3f5; --mut:#9aa0ac; --acc:#ffd23f; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:system-ui,sans-serif; background:var(--bg); color:var(--txt); padding:16px; max-width:720px; margin-inline:auto; }
+  h1 { font-size:1.4rem; margin:0 0 4px; }
+  #upd { color:var(--mut); font-size:.8rem; margin-bottom:16px; }
+  .filters { display:grid; gap:12px; background:var(--card); padding:14px; border-radius:14px; margin-bottom:16px; }
+  label { font-size:.85rem; color:var(--mut); display:grid; gap:6px; }
+  select, input { width:100%; padding:10px; border-radius:10px; border:0; background:#262a33; color:var(--txt); font-size:1rem; }
+  .row { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+  .deal { display:flex; justify-content:space-between; align-items:center; background:var(--card); padding:14px; border-radius:14px; margin-bottom:10px; text-decoration:none; color:inherit; }
+  .route { font-weight:700; }
+  .meta { color:var(--mut); font-size:.85rem; margin-top:4px; }
+  .price { color:var(--acc); font-size:1.5rem; font-weight:800; }
+</style>
+</head>
+<body>
+<h1>✈️ Vuelos baratos</h1>
+<div id="upd">Cargando…</div>
+<div class="filters">
+  <label>Salgo desde <select id="origin"></select></label>
+  <div class="row">
+    <label>Precio máx. (€) <input id="max" type="number" value="60"></label>
+    <label>Destino (opcional) <input id="dest" placeholder="ej. LON"></label>
+  </div>
+  <div class="row">
+    <label>Días mín. <input id="dmin" type="number" value="3"></label>
+    <label>Días máx. <input id="dmax" type="number" value="10"></label>
+  </div>
+</div>
+<div id="list"></div>
+<script>
+let data = [];
+const $ = id => document.getElementById(id);
+fetch("deals.json").then(r => r.json()).then(j => {
+  data = j.deals;
+  $("upd").textContent = "Actualizado: " + new Date(j.updated).toLocaleString("es-ES");
+  const origins = [...new Set(data.map(d => d.origin))];
+  $("origin").innerHTML = origins.map(o => `<option>${o}</option>`).join("");
+  render();
+}).catch(() => $("upd").textContent = "No hay deals.json todavía: ejecuta fetch_deals.py");
+["origin","max","dest","dmin","dmax"].forEach(id => $(id).addEventListener("input", render));
+function render() {
+  const o = $("origin").value, max = +$("max").value || 1e9, dest = $("dest").value.trim().toUpperCase();
+  const dmin = +$("dmin").value || 0, dmax = +$("dmax").value || 999;
+  const rows = data.filter(d => d.origin === o && d.price <= max && d.days >= dmin && d.days <= dmax && (!dest || d.destination === dest)).slice(0, 50);
+  $("list").innerHTML = rows.map(d => `
+    <a class="deal" href="${d.link}" target="_blank" rel="noopener">
+      <div><div class="route">${d.origin} → ${d.destination}</div>
+      <div class="meta">${d.departure} – ${d.return} · ${d.days} días · ${d.airline}${d.transfers ? " · " + d.transfers + " esc." : " · directo"}</div></div>
+      <div class="price">${d.price}€</div>
+    </a>`).join("") || '<p class="meta">Sin resultados con estos filtros.</p>';
+}
+</script>
+</body>
+</html>
