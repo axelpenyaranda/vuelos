@@ -1,10 +1,14 @@
-name: Buscar vuelos baratos
+name: Buscar vuelos y atender Telegram
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: '*/5 * * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: vuelos-actualizacion
+  cancel-in-progress: false
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -12,15 +16,27 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
-      - run: python fetch_deals.py
+          python-version: '3.12'
+      - name: Responder a Telegram y comprobar alertas
+        run: python telegram_bot.py
         env:
           TP_TOKEN: ${{ secrets.TP_TOKEN }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      - name: Guardar resultados
+      - name: Actualizar listado general cada seis horas
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '0 */6 * * *'
+        run: python fetch_deals.py
+        env:
+          TP_TOKEN: ${{ secrets.TP_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      - name: Guardar estado y resultados
+        if: always()
         run: |
-          git config user.name "vuelos-bot"
-          git config user.email "bot@users.noreply.github.com"
+          git config user.name 'vuelos-bot'
+          git config user.email 'bot@users.noreply.github.com'
           git add -A
-          git diff --staged --quiet || (git commit -m "Actualizar ofertas" && git push)
+          if ! git diff --staged --quiet; then
+            git commit -m 'Actualizar vuelos y estado del bot'
+            git push
+          fi
