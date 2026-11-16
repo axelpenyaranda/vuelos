@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T05:21:15.507032Z",
+  "updated": "2026-11-16T15:07:27.743818Z",
   "currency": "eur",
   "deals": [
     {
@@ -16,13 +16,24 @@
     {
       "origin": "ALC",
       "destination": "MIL",
-      "price": 32,
+      "price": 31,
       "airline": "FR",
       "departure": "2026-12-14",
       "return": "2026-12-17",
       "days": 3,
       "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1412MIL17121?t=FR17972310001797238500000125ALCMXP17975391001797546900000130BGYALC_4ca8812fd807b9b94c7e474bb99765cf_2984&search_date=10112026&expected_price_uuid=01a1c5fa-c4a9-8030-a7cc-e7b80fd9c1f3&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9fbM5ak-fVmT-_spx4HxSQ&expected_price_source=share&expected_price_currency=eur&expected_price=32"
+      "link": "https://www.aviasales.com/search/ALC1412MIL17121?t=FR17972310001797238500000125ALCMXP17975391001797546900000130BGYALC_4ca8812fd807b9b94c7e474bb99765cf_2820&search_date=16112026&expected_price_uuid=01a1e3c4-b37a-8030-631a-1fbbed8b42a7&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9fbM5ak-fVmT-_spx4HxSQ&expected_price_source=share&expected_price_currency=eur&expected_price=31"
+    },
+    {
+      "origin": "ALC",
+      "destination": "IBZ",
+      "price": 32,
+      "airline": "FR",
+      "departure": "2026-12-03",
+      "return": "2026-12-05",
+      "days": 2,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC0312IBZ05121?t=FR17962827001796285700000050ALCIBZ17964849001796487900000050IBZALC_783c446753c5dc85ed193db26db9aacf_2938&search_date=16112026&expected_price_uuid=01a1e42f-f47b-8031-6d36-60333baa16d5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SZVZoWZmlxXy4ADDIVjd-Q&expected_price_source=share&expected_price_currency=eur&expected_price=32"
     },
     {
       "origin": "ALC",
@@ -192,13 +203,13 @@
     {
       "origin": "ALC",
       "destination": "VCE",
-      "price": 47,
-      "airline": "FR",
-      "departure": "2026-12-10",
-      "return": "2026-12-13",
+      "price": 46,
+      "airline": "MW",
+      "departure": "2026-12-15",
+      "return": "2026-12-18",
       "days": 3,
       "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1012VCE13121?t=FR17968977001796905800000135ALCTSF17971566001797165000000140TSFALC_988e0f4bc60cdbdf9124d0147dbe9a7e_4326&search_date=09112026&expected_price_uuid=01a1bfdb-36d0-8030-e40e-abb8ffc53e24&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=aPj_2-S-6KbAAmfvDKm-fQ&expected_price_source=share&expected_price_currency=eur&expected_price=47"
+      "link": "https://www.aviasales.com/search/ALC1512VCE18121?t=FR17973489001797357000000135ALCVCE17976243001797632700000140TSFALC_c0af88551524d05b1c42129a29adf334_4222&search_date=16112026&expected_price_uuid=01a1e3b5-93ab-8030-a057-3d9a240cc35a&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=lhmxEWYEw1Pa__5woAqLEw&expected_price_source=share&expected_price_currency=eur&expected_price=46"
     },
     {
       "origin": "ALC",
@@ -260,6 +271,17 @@
       "destination": "MIL",
       "price": 49,
       "airline": "FR",
+      "departure": "2026-12-10",
+      "return": "2026-12-13",
+      "days": 3,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC1012MIL13121?t=FR17969442001796951700000125ALCBGY17971416001797180600000650MXPCTAALC_ff6459ccfb7c468b639f744999c45da3_4484&search_date=12112026&expected_price_uuid=01a1d166-13d7-8030-e74f-42db934eac9a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=lSqamB4hlxZrlaY-7sN5zg&expected_price_source=share&expected_price_currency=eur&expected_price=49"
+    },
+    {
+      "origin": "ALC",
+      "destination": "MIL",
+      "price": 49,
+      "airline": "FR",
       "departure": "2026-12-16",
       "return": "2027-01-10",
       "days": 25,
@@ -290,14 +312,14 @@
     },
     {
       "origin": "ALC",
-      "destination": "VCE",
-      "price": 51,
-      "airline": "W4",
-      "departure": "2026-12-12",
+      "destination": "PMI",
+      "price": 50,
+      "airline": "VY",
+      "departure": "2026-12-11",
       "return": "2026-12-13",
-      "days": 1,
+      "days": 2,
       "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1212VCE13121?t=FR17970681001797076200000135ALCVCE17971566001797165000000140TSFALC_7e8710718a8dd04d89a6d7b2215fe8ac_4695&search_date=09112026&expected_price_uuid=01a1bfda-cca2-8030-26c0-b94faa7fd1ce&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=hU8RL-vhy3e4SoRyQMFTyg&expected_price_source=share&expected_price_currency=eur&expected_price=51"
+      "link": "https://www.aviasales.com/search/ALC1112PMI13121?t=VY17969931001796996700000060ALCPMI17971854001797189000000060PMIALC_04bda5b00664e669fbdc56c3f67b856a_4548&search_date=16112026&expected_price_uuid=01a1e3c9-b036-8030-21d2-41e4ba3a9e33&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GYX_hOC00qwsmB_nfVS6AA&expected_price_source=share&expected_price_currency=eur&expected_price=50"
     },
     {
       "origin": "ALC",
@@ -356,14 +378,14 @@
     },
     {
       "origin": "ALC",
-      "destination": "MIL",
+      "destination": "OVD",
       "price": 53,
-      "airline": "W4",
-      "departure": "2026-12-18",
-      "return": "2026-12-19",
+      "airline": "V7",
+      "departure": "2026-12-31",
+      "return": "2027-01-01",
       "days": 1,
       "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1812MIL19121?t=W417976087001797616500000130ALCMXP17977074001797715500000135MXPALC_585c23d85dd37043a988eae98047d971_4847&search_date=13112026&expected_price_uuid=01a1d40d-97d3-8031-6a9f-ab6d13bbf67c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rFaGjBbx_WH6Vay8yrq1Qw&expected_price_source=share&expected_price_currency=eur&expected_price=53"
+      "link": "https://www.aviasales.com/search/ALC3112OVD01011?t=V717987427001798748700000100ALCOVD17988333001798838700000090OVDALC_e2de53c1bdbe1d2abceade5a8c12684f_4843&search_date=16112026&expected_price_uuid=01a1e44c-240b-8030-a4b9-8e3b844764f2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Dx1Rk8k8wlh5F-AZ0_VcPw&expected_price_source=share&expected_price_currency=eur&expected_price=53"
     },
     {
       "origin": "ALC",
@@ -422,14 +444,14 @@
     },
     {
       "origin": "ALC",
-      "destination": "VCE",
+      "destination": "PAR",
       "price": 55,
-      "airline": "W4",
-      "departure": "2026-12-19",
-      "return": "2026-12-20",
-      "days": 1,
+      "airline": "FR",
+      "departure": "2027-01-30",
+      "return": "2027-02-03",
+      "days": 4,
       "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1912VCE20121?t=FR17976729001797681000000135ALCVCE17977614001797769800000140TSFALC_9380d04e44fc39703eab21592e1be02f_5037&search_date=13112026&expected_price_uuid=01a1d39d-27ae-8030-6cee-09e7c29efbe8&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=hU8RL-vhy3e4SoRyQMFTyg&expected_price_source=share&expected_price_currency=eur&expected_price=55"
+      "link": "https://www.aviasales.com/search/ALC3001PAR03021?t=FR18013329001801341000000135ALCBVA18016515001801659300000130BVAALC_77a44d2e99025f974f6552bfc0ca59a6_5004&search_date=16112026&expected_price_uuid=01a1e4c4-484d-8030-6136-5083ec7b28b8&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LlfqwLqalj0rAlCACPbJbQ&expected_price_source=share&expected_price_currency=eur&expected_price=55"
     },
     {
       "origin": "ALC",
@@ -466,14 +488,14 @@
     },
     {
       "origin": "ALC",
-      "destination": "VCE",
-      "price": 56,
-      "airline": "W4",
-      "departure": "2026-12-15",
-      "return": "2026-12-18",
+      "destination": "OVD",
+      "price": 57,
+      "airline": "V7",
+      "departure": "2026-12-31",
+      "return": "2027-01-03",
       "days": 3,
       "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1512VCE18121?t=FR17973273001797335400000135ALCVCE17976243001797632700000140TSFALC_ad5c5ffd43e35a5c32b9c716e2b7b8e3_5115&search_date=14112026&expected_price_uuid=01a1dbcb-6765-8031-65c7-7ca291b5298a&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Veid_th9l1Rl2O-fjjP1Ow&expected_price_source=share&expected_price_currency=eur&expected_price=56"
+      "link": "https://www.aviasales.com/search/ALC3112OVD03011?t=V717987427001798748700000100ALCOVD17989908001798996200000090OVDALC_68361221f4ff34bba97e2337fef1799d_5160&search_date=16112026&expected_price_uuid=01a1e44c-240b-8030-e72f-728aaba76d86&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=mBbP3HMzCmVTDz-lOzRTwg&expected_price_source=share&expected_price_currency=eur&expected_price=57"
     },
     {
       "origin": "ALC",
@@ -499,14 +521,36 @@
     },
     {
       "origin": "ALC",
-      "destination": "PAR",
+      "destination": "VCE",
       "price": 58,
-      "airline": "FR",
-      "departure": "2027-01-30",
-      "return": "2027-02-03",
-      "days": 4,
+      "airline": "W4",
+      "departure": "2026-12-19",
+      "return": "2026-12-20",
+      "days": 1,
       "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC3001PAR03021?t=FR18013329001801341000000135ALCBVA18016515001801659300000130BVAALC_77a44d2e99025f974f6552bfc0ca59a6_5296&search_date=15112026&expected_price_uuid=01a1e149-8cf0-8030-2ef2-460efeadab27&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LlfqwLqalj0rAlCACPbJbQ&expected_price_source=share&expected_price_currency=eur&expected_price=58"
+      "link": "https://www.aviasales.com/search/ALC1912VCE20121?t=FR17976729001797681000000135ALCVCE17977614001797769800000140TSFALC_9380d04e44fc39703eab21592e1be02f_5274&search_date=16112026&expected_price_uuid=01a1e3f0-03d2-8031-67bc-ad2a7c20d16c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=hU8RL-vhy3e4SoRyQMFTyg&expected_price_source=share&expected_price_currency=eur&expected_price=58"
+    },
+    {
+      "origin": "ALC",
+      "destination": "NCL",
+      "price": 59,
+      "airline": "FR",
+      "departure": "2026-12-03",
+      "return": "2026-12-06",
+      "days": 3,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC0312NCL06121?t=FR17962992001796306400000180ALCNCL17965431001796557200000175NCLALC_2f1fab5689130ad92d6a8198254f128e_5375&search_date=13112026&expected_price_uuid=01a1d4f4-8901-8031-20b0-357cf975b9b6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tynqYEGvosZrH2qhMe3H_g&expected_price_source=share&expected_price_currency=eur&expected_price=59"
+    },
+    {
+      "origin": "ALC",
+      "destination": "MIL",
+      "price": 60,
+      "airline": "FR",
+      "departure": "2026-12-18",
+      "return": "2026-12-19",
+      "days": 1,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC1812MIL19121?t=W417975766001797584100000125ALCMXP17977074001797715500000135MXPALC_30023d4396d6e127e974d1ad4a6451d3_5470&search_date=16112026&expected_price_uuid=01a1e389-afab-8031-65e6-b9de8ab838a2&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PL9jstCqnbK2npcb8c1K0w&expected_price_source=share&expected_price_currency=eur&expected_price=60"
     },
     {
       "origin": "ALC",
@@ -529,17 +573,6 @@
       "days": 7,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC2911PAR06121?t=FR17959431001795951200000135ALCBVA17965380001796545800000130BVAALC_41398ef4c61eecba5245fffa1956d78b_5591&search_date=12112026&expected_price_uuid=01a1d06f-2595-8030-e3c4-d02d03ad282f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QAwG6itANkeW-THdZgWraA&expected_price_source=share&expected_price_currency=eur&expected_price=61"
-    },
-    {
-      "origin": "ALC",
-      "destination": "NCL",
-      "price": 61,
-      "airline": "LS",
-      "departure": "2026-12-03",
-      "return": "2026-12-06",
-      "days": 3,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC0312NCL06121?t=LS17962968001796304900000195ALCNCL17965431001796557200000175NCLALC_0d83f74b41ef73a2c94d318b0642fb67_5603&search_date=09112026&expected_price_uuid=01a1c058-34b8-8030-a9eb-b5133a47ef70&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=hmPQBGJi9fiok5ppJqhY0g&expected_price_source=share&expected_price_currency=eur&expected_price=61"
     },
     {
       "origin": "ALC",
@@ -576,17 +609,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "PMI",
-      "price": 62,
-      "airline": "VY",
-      "departure": "2026-11-24",
-      "return": "2026-11-25",
-      "days": 1,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC2411PMI25111?t=VY17955243001795527900000060ALCPMI17956047001795608600000065PMIALC_6a9c2f672e47db11187239dceabb1ced_5667&search_date=12112026&expected_price_uuid=01a1d1d8-f03e-8030-aefc-5ae81301a17b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=x7vomUwoDa9t6lKLyFjs6Q&expected_price_source=share&expected_price_currency=eur&expected_price=62"
-    },
-    {
-      "origin": "ALC",
       "destination": "MIL",
       "price": 62,
       "airline": "FR",
@@ -598,17 +620,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "PAR",
-      "price": 63,
-      "airline": "FR",
-      "departure": "2026-11-28",
-      "return": "2026-11-29",
-      "days": 1,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC2811PAR29111?t=FR17958897001795897800000135ALCBVA17959332001795941000000130BVAALC_a3a4addc7aa17ee116c8e693824e2cd2_5790&search_date=09112026&expected_price_uuid=01a1bff0-3b79-8031-6a31-b8675fe16965&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=a08Fi8gWwKHHNIC_dfbzwQ&expected_price_source=share&expected_price_currency=eur&expected_price=63"
-    },
-    {
-      "origin": "ALC",
       "destination": "RAK",
       "price": 63,
       "airline": "FR",
@@ -617,6 +628,17 @@
       "days": 7,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC2611RAK03121?t=FR17956977001795701000000115ALCRAK17963073001796317500000110RAKALC_940c71a172fb26bf74b7668b0cbc5906_5746&search_date=13112026&expected_price_uuid=01a1d4c1-5ca0-8030-e109-500c0907f7c3&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=mYDyV26v1oGOflO5q8vCbg&expected_price_source=share&expected_price_currency=eur&expected_price=63"
+    },
+    {
+      "origin": "ALC",
+      "destination": "OVD",
+      "price": 63,
+      "airline": "V7",
+      "departure": "2026-12-31",
+      "return": "2027-01-04",
+      "days": 4,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC3112OVD04011?t=V717987427001798748700000100ALCOVD17990622001799067600000090OVDALC_74d1052bf44b02c47c2416c80c22ae78_5688&search_date=16112026&expected_price_uuid=01a1e44c-4aca-8030-e193-234947bd34e9&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=DWdvJMs1XB1kVXh5eTnsNA&expected_price_source=share&expected_price_currency=eur&expected_price=63"
     },
     {
       "origin": "ALC",
@@ -785,17 +807,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "PMI",
-      "price": 66,
-      "airline": "VY",
-      "departure": "2026-11-30",
-      "return": "2026-12-01",
-      "days": 1,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC3011PMI01121?t=VY17960589001796062500000060ALCPMI17961231001796127000000065PMIALC_9747de85c4c9ae9367f0a441a221fd02_6016&search_date=12112026&expected_price_uuid=01a1d1d9-87f3-8030-6ea0-cd8ae23a7fc5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iJ9jgoR5nbGPIIhzxK4QPg&expected_price_source=share&expected_price_currency=eur&expected_price=66"
-    },
-    {
-      "origin": "ALC",
       "destination": "RAK",
       "price": 66,
       "airline": "FR",
@@ -818,14 +829,25 @@
     },
     {
       "origin": "ALC",
-      "destination": "VCE",
+      "destination": "PMI",
       "price": 66,
-      "airline": "W4",
-      "departure": "2026-11-17",
-      "return": "2026-11-20",
-      "days": 3,
+      "airline": "VY",
+      "departure": "2027-01-08",
+      "return": "2027-01-17",
+      "days": 9,
       "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1711VCE20111?t=FR17949081001794916200000135ALCVCE17952051001795213500000140TSFALC_92bd565956df31de67e23fd9fe221b6d_6137&search_date=09112026&expected_price_uuid=01a1bfb6-3554-8031-608c-370097b34a72&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Veid_th9l1Rl2O-fjjP1Ow&expected_price_source=share&expected_price_currency=eur&expected_price=66"
+      "link": "https://www.aviasales.com/search/ALC0801PMI17011?t=VY17994123001799415900000060ALCPMI18001836001800187500000065PMIALC_eba6e49d3333eea6253bd7de4b6e547f_5965&search_date=16112026&expected_price_uuid=01a1e3ca-be1b-8030-ae40-1c6b013f446d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9wmrIazJYTk6DlTBGopcYw&expected_price_source=share&expected_price_currency=eur&expected_price=66"
+    },
+    {
+      "origin": "ALC",
+      "destination": "IBZ",
+      "price": 67,
+      "airline": "FR",
+      "departure": "2026-11-28",
+      "return": "2026-11-29",
+      "days": 1,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC2811IBZ29111?t=FR17958750001795878000000050ALCIBZ17959872001795990200000050IBZALC_4b85d1d4df3b4248c7dd9b5e67cabfe8_6103&search_date=15112026&expected_price_uuid=01a1dea7-48ff-8030-26b2-7e6653373f15&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1UTB8jxEdqxPK3JE_VFQqg&expected_price_source=share&expected_price_currency=eur&expected_price=67"
     },
     {
       "origin": "ALC",
@@ -837,6 +859,17 @@
       "days": 2,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC1212PMI14121?t=VY17970795001797083100000060ALCPMI17972745001797278100000060PMIALC_e4c55c712d53c742df64d7386096ef4b_6271&search_date=09112026&expected_price_uuid=01a1c0f5-8864-8031-6c70-0e6fe627e1cc&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Xdzyxll613qbK0wncgtIbQ&expected_price_source=share&expected_price_currency=eur&expected_price=68"
+    },
+    {
+      "origin": "ALC",
+      "destination": "LON",
+      "price": 68,
+      "airline": "W9",
+      "departure": "2026-12-28",
+      "return": "2026-12-31",
+      "days": 3,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC2812LON31121?t=W917984913001798497300000160ALCLTN17987397001798752300000150LGWALC_bbe60cde9f2d429457e4a30c6a4a18ee_6181&search_date=16112026&expected_price_uuid=01a1e381-7214-8040-2fe4-db6bb920ef94&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QDy9zuKJTMWoamApDOH9Ow&expected_price_source=share&expected_price_currency=eur&expected_price=68"
     },
     {
       "origin": "ALC",
@@ -906,6 +939,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "PMI",
+      "price": 69,
+      "airline": "UX",
+      "departure": "2027-01-12",
+      "return": "2027-01-18",
+      "days": 6,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC1201PMI18011?t=VY17997444001799747700000055ALCPMI18002868001800290400000060PMIALC_4dcda9e9f541d6547794c6cf058eb5e3_6276&search_date=16112026&expected_price_uuid=01a1e3ca-bf65-8030-a10d-30ff57582429&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=hURLrOa8D1tQk6sK_VQdSw&expected_price_source=share&expected_price_currency=eur&expected_price=69"
+    },
+    {
+      "origin": "ALC",
       "destination": "ORN",
       "price": 69,
       "airline": "VY",
@@ -914,17 +958,6 @@
       "days": 10,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC0501ORN15011?t=VY17991306001799133900000055ALCORN18000009001800090900001500ORNALC_e4d7cfc2e6701878df0fd3dede54bcc4_6337&search_date=14112026&expected_price_uuid=01a1d9c3-0963-8040-6797-648e0dc492f9&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YiZAHN3Br240nHx0OpN__g&expected_price_source=share&expected_price_currency=eur&expected_price=69"
-    },
-    {
-      "origin": "ALC",
-      "destination": "NCL",
-      "price": 70,
-      "airline": "FR",
-      "departure": "2026-11-27",
-      "return": "2026-11-30",
-      "days": 3,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC2711NCL30111?t=FR17957967001795803900000180ALCNCL17960562001796070300000175NCLALC_987358bedab9b6873facbef0be335aac_6441&search_date=09112026&expected_price_uuid=01a1c056-9572-8031-23c8-49bb0025de12&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=l0xE2p4LFSKDU5oBkCyXdQ&expected_price_source=share&expected_price_currency=eur&expected_price=70"
     },
     {
       "origin": "ALC",
@@ -958,6 +991,17 @@
       "days": 2,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC2712VCE29121?t=W417983566001798364700000135ALCTSF17985258001798534200000140VCEALC_b8b0dcfadcf7c2eca39b4a0775bad3d9_6594&search_date=10112026&expected_price_uuid=01a1c739-6fb3-8030-6d0c-26a1d70485b4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=EvQVthTb8ohterlN7YJxtg&expected_price_source=share&expected_price_currency=eur&expected_price=71"
+    },
+    {
+      "origin": "ALC",
+      "destination": "WAW",
+      "price": 71,
+      "airline": "W6",
+      "departure": "2026-12-12",
+      "return": "2026-12-13",
+      "days": 1,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC1212WAW13121?t=W617970699001797082500000210ALCWAW17971422001797154800000210WAWALC_9cecd22c259990af26fba7cbab276720_6454&search_date=16112026&expected_price_uuid=01a1e382-5495-8030-26de-5725ef5acd09&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=J8Og-EKdcj6tiOzhF9bsdQ&expected_price_source=share&expected_price_currency=eur&expected_price=71"
     },
     {
       "origin": "ALC",
@@ -1038,6 +1082,28 @@
     },
     {
       "origin": "ALC",
+      "destination": "MIL",
+      "price": 72,
+      "airline": "FR",
+      "departure": "2027-01-29",
+      "return": "2027-02-02",
+      "days": 4,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC2901MIL02021?t=FR18012459001801253400000125ALCMXP18015732001801581000000130MXPALC_154b4ef09857de578636e3e2525fb950_6546&search_date=16112026&expected_price_uuid=01a1e3ee-74dc-8030-6bd4-656ee6c0b2f1&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LESL5Dih8Oluf2alTtBWtw&expected_price_source=share&expected_price_currency=eur&expected_price=72"
+    },
+    {
+      "origin": "ALC",
+      "destination": "VCE",
+      "price": 72,
+      "airline": "W4",
+      "departure": "2027-01-30",
+      "return": "2027-02-01",
+      "days": 2,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC3001VCE01021?t=FR18013017001801309800000135ALCVCE18014964001801504800000140TSFALC_5632a9ba0bd4e39ea6e5c739cd3d83b3_6590&search_date=16112026&expected_price_uuid=01a1e493-78b9-8031-65a2-b074c20d5803&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zUWLp1XeY1CC9OfWQfVs8A&expected_price_source=share&expected_price_currency=eur&expected_price=72"
+    },
+    {
+      "origin": "ALC",
       "destination": "VCE",
       "price": 73,
       "airline": "FR",
@@ -1071,17 +1137,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "MIL",
-      "price": 73,
-      "airline": "FR",
-      "departure": "2027-01-29",
-      "return": "2027-02-02",
-      "days": 4,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC2901MIL02021?t=FR18012459001801253400000125ALCMXP18015732001801581000000130MXPALC_154b4ef09857de578636e3e2525fb950_6666&search_date=15112026&expected_price_uuid=01a1dee3-1d10-8030-24bf-6f119df01296&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LESL5Dih8Oluf2alTtBWtw&expected_price_source=share&expected_price_currency=eur&expected_price=73"
-    },
-    {
-      "origin": "ALC",
       "destination": "OPO",
       "price": 74,
       "airline": "FR",
@@ -1104,6 +1159,28 @@
     },
     {
       "origin": "ALC",
+      "destination": "WAW",
+      "price": 74,
+      "airline": "W6",
+      "departure": "2026-12-11",
+      "return": "2026-12-12",
+      "days": 1,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC1112WAW12121?t=W617970171001797029700000210ALCWAW17970537001797066300000210WAWALC_4b4e41eeb99fa8dce0aa56f397398894_6726&search_date=16112026&expected_price_uuid=01a1e37f-35f5-8030-6b72-b847e3d84e12&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=71yqFnZYYO5UFo-JGEObXg&expected_price_source=share&expected_price_currency=eur&expected_price=74"
+    },
+    {
+      "origin": "ALC",
+      "destination": "VCE",
+      "price": 74,
+      "airline": "W4",
+      "departure": "2026-12-22",
+      "return": "2026-12-26",
+      "days": 4,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC2212VCE26121?t=W417979321001797940200000135ALCVCE17982666001798275000000140VCEALC_0bc1c10217a1ce646cdead284aacfd52_6741&search_date=16112026&expected_price_uuid=01a1e493-87c0-8030-a633-992c408ba62b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=JkvPg3Z9mys446e-2vpGWQ&expected_price_source=share&expected_price_currency=eur&expected_price=74"
+    },
+    {
+      "origin": "ALC",
       "destination": "VCE",
       "price": 74,
       "airline": "VY",
@@ -1115,14 +1192,14 @@
     },
     {
       "origin": "ALC",
-      "destination": "BTS",
+      "destination": "LPL",
       "price": 74,
       "airline": "FR",
       "departure": "2027-01-22",
       "return": "2027-01-25",
       "days": 3,
       "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC2201BTS25011?t=FR18006102001800620100000165ALCBTS18008736001800884100000175BTSALC_ddbf4cc7720ddff5889e98c3c9f1838a_6757&search_date=15112026&expected_price_uuid=01a1e046-7782-8030-2fd5-1d0edd1cd3b4&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=0DAWZhXnH_80W1JIbQF2Bg&expected_price_source=share&expected_price_currency=eur&expected_price=74"
+      "link": "https://www.aviasales.com/search/ALC2201LPL25011?t=FR18006561001800662700000170ALCLPL18008862001800899700000165LPLALC_0f665fc3f919efd170ec94a95553c94d_6728&search_date=16112026&expected_price_uuid=01a1e40f-5a6d-8040-6de0-277f715e9d2c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=p6BnCJqsvRt19wS_EjuOWg&expected_price_source=share&expected_price_currency=eur&expected_price=74"
     },
     {
       "origin": "ALC",
@@ -1170,6 +1247,28 @@
     },
     {
       "origin": "ALC",
+      "destination": "PMI",
+      "price": 76,
+      "airline": "UX",
+      "departure": "2026-11-24",
+      "return": "2026-11-25",
+      "days": 1,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC2411PMI25111?t=VY17955108001795514100000055ALCPMI17956047001795608600000065PMIALC_89695b3df88a6693607abad406f09d69_6943&search_date=16112026&expected_price_uuid=01a1e335-df70-8030-22c8-34cb44b57f69&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zk5a8gIDGbBP6_KcwLVZ8w&expected_price_source=share&expected_price_currency=eur&expected_price=76"
+    },
+    {
+      "origin": "ALC",
+      "destination": "ROM",
+      "price": 76,
+      "airline": "W4",
+      "departure": "2026-12-18",
+      "return": "2026-12-20",
+      "days": 2,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC1812ROM20121?t=W417976093001797616800000125ALCFCO17977710001797779400000140FCOALC_f46c8b4342f68891f23b9b7d5c45a688_6910&search_date=16112026&expected_price_uuid=01a1e41b-11d1-8030-621c-c7ba89705c7d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Q0il1PPvMu_zxHdzJJzlEw&expected_price_source=share&expected_price_currency=eur&expected_price=76"
+    },
+    {
+      "origin": "ALC",
       "destination": "PAR",
       "price": 77,
       "airline": "FR",
@@ -1178,6 +1277,17 @@
       "days": 7,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC0712PAR14121?t=FR17966451001796653200000135ALCBVA17972595001797267300000130BVAALC_e181104abfbec24d2bf62e24d2c20447_7107&search_date=09112026&expected_price_uuid=01a1c0f3-49eb-8031-667e-f80a6105b4f7&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SfS5VfaL8DC6VCvS50u8YQ&expected_price_source=share&expected_price_currency=eur&expected_price=77"
+    },
+    {
+      "origin": "ALC",
+      "destination": "OPO",
+      "price": 77,
+      "airline": "FR",
+      "departure": "2026-12-05",
+      "return": "2026-12-07",
+      "days": 2,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC0512OPO07121?t=FR17965068001796592900001495ALCLPLOPO17966310001796640300000095OPOALC_7223fe0e2ca07d67910f2d19745df8c1_7028&search_date=16112026&expected_price_uuid=01a1e434-f766-8030-223c-dde11d22c1fa&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=DbEcrdE_W-f5mlgtXzQLvA&expected_price_source=share&expected_price_currency=eur&expected_price=77"
     },
     {
       "origin": "ALC",
@@ -1211,39 +1321,6 @@
       "days": 5,
       "transfers": 1,
       "link": "https://www.aviasales.com/search/ALC2901BCN03021?t=VY18012267001801263000000605ALCPMIBCN18016350001801639200000070BCNALC_3aa3a7208b3047ff39af6764fb50100b_7053&search_date=14112026&expected_price_uuid=01a1dbf2-bc4c-8030-668c-05051bcf0a67&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=J3trecDWJx-D2fe73KvP0g&expected_price_source=share&expected_price_currency=eur&expected_price=77"
-    },
-    {
-      "origin": "ALC",
-      "destination": "OPO",
-      "price": 78,
-      "airline": "FR",
-      "departure": "2026-12-05",
-      "return": "2026-12-07",
-      "days": 2,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC0512OPO07121?t=FR17965119001796551800000725ALCBHXOPO17966310001796640300000095OPOALC_d75aff2928322018db2f229a2ca6776a_7085&search_date=13112026&expected_price_uuid=01a1d3ed-8459-8030-6e6b-239a1abd5787&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=WnyYLH0f0u7uDlhi4OJboQ&expected_price_source=share&expected_price_currency=eur&expected_price=78"
-    },
-    {
-      "origin": "ALC",
-      "destination": "ROM",
-      "price": 78,
-      "airline": "W4",
-      "departure": "2026-12-18",
-      "return": "2026-12-20",
-      "days": 2,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1812ROM20121?t=W417976093001797616800000125ALCFCO17977710001797779400000140FCOALC_f46c8b4342f68891f23b9b7d5c45a688_7122&search_date=15112026&expected_price_uuid=01a1ded2-c628-8031-67a2-25cc79170961&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Q0il1PPvMu_zxHdzJJzlEw&expected_price_source=share&expected_price_currency=eur&expected_price=78"
-    },
-    {
-      "origin": "ALC",
-      "destination": "PMI",
-      "price": 78,
-      "airline": "VY",
-      "departure": "2026-12-07",
-      "return": "2026-12-08",
-      "days": 1,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC0712PMI08121?t=VY17966637001796667300000060ALCPMI17967279001796731800000065PMIALC_f798f9f90fe12e119138c7168eeae91e_7223&search_date=09112026&expected_price_uuid=01a1bfae-5bc5-8030-639e-8526b21029bf&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iJ9jgoR5nbGPIIhzxK4QPg&expected_price_source=share&expected_price_currency=eur&expected_price=78"
     },
     {
       "origin": "ALC",
@@ -1337,23 +1414,23 @@
       "origin": "ALC",
       "destination": "VCE",
       "price": 80,
-      "airline": "W4",
-      "departure": "2027-01-30",
-      "return": "2027-02-01",
-      "days": 2,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC3001VCE01021?t=W418013017001801309800000135ALCVCE18015111001801608600001625VCEBCNALC_8e2f08c51e28459a147b39955a492f89_7251&search_date=13112026&expected_price_uuid=01a1d5a4-6e7b-8040-2984-1a20786e026d&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=aN1WEpUCYS3pPXd-j25rfQ&expected_price_source=share&expected_price_currency=eur&expected_price=80"
-    },
-    {
-      "origin": "ALC",
-      "destination": "VCE",
-      "price": 80,
       "airline": "FR",
       "departure": "2027-01-22",
       "return": "2027-02-02",
       "days": 11,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC2201VCE02021?t=W418006387001800646800000135ALCTSF18015498001801558200000140VCEALC_6b4ff80e7d589660fe090646b0c8abc8_7388&search_date=11112026&expected_price_uuid=01a1ca4f-c792-8030-67cd-352ac3e394d7&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=huaX4wcVoidUxBI5cbRO9Q&expected_price_source=share&expected_price_currency=eur&expected_price=80"
+    },
+    {
+      "origin": "ALC",
+      "destination": "BTS",
+      "price": 81,
+      "airline": "FR",
+      "departure": "2026-11-29",
+      "return": "2026-12-03",
+      "days": 4,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC2911BTS03121?t=FR17959875001795997400000165ALCBTS17962935001796304000000175BTSALC_c1f7e96650eaddf733484a8e21afd451_7342&search_date=16112026&expected_price_uuid=01a1e3d6-7116-8040-a87a-702401f5f666&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=A0-ugaVcOj_wse3K4Hj7nQ&expected_price_source=share&expected_price_currency=eur&expected_price=81"
     },
     {
       "origin": "ALC",
@@ -1365,28 +1442,6 @@
       "days": 6,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC3011FRA06121?t=FR17960709001796080500000160ALCHHN17965503001796559300000150HHNALC_20844f41ad2e3aaf9076fb1b4d159318_7415&search_date=12112026&expected_price_uuid=01a1d1eb-e0ce-8030-a690-ed0cda0ed492&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IQ7hPcmY7ATJAP5nOaq4HA&expected_price_source=share&expected_price_currency=eur&expected_price=81"
-    },
-    {
-      "origin": "ALC",
-      "destination": "BIO",
-      "price": 81,
-      "airline": "V7",
-      "departure": "2026-12-11",
-      "return": "2026-12-13",
-      "days": 2,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1112BIO13121?t=V717969784001796983800000090ALCBIO17971533001797165900000210BIOMADALC_3fd630ff5b482cbcfcd116c9daf146a8_7503&search_date=09112026&expected_price_uuid=01a1c0e9-a552-8031-60b0-7db1d0bebefb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xDB5bKYTcPFI880RIkP2pA&expected_price_source=share&expected_price_currency=eur&expected_price=81"
-    },
-    {
-      "origin": "ALC",
-      "destination": "LON",
-      "price": 81,
-      "airline": "U2",
-      "departure": "2026-12-01",
-      "return": "2026-12-06",
-      "days": 5,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC0112LON06121?t=U217961270001796133000000160ALCSEN17965488001796561700000155STNALC_3d4e63f56be31b37ad3eb912b82e9aab_7435&search_date=15112026&expected_price_uuid=01a1de62-a40c-8040-2eb6-9f7f8079e59f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=bL-5WMx7i-9R_gJSQ9Z-NA&expected_price_source=share&expected_price_currency=eur&expected_price=81"
     },
     {
       "origin": "ALC",
@@ -1522,17 +1577,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "FRA",
-      "price": 84,
-      "airline": "FR",
-      "departure": "2026-12-17",
-      "return": "2026-12-19",
-      "days": 2,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1712FRA19121?t=FR17975286001797538200000160ALCHHN17976606001797669600000150HHNALC_086ec36a9562f1653727e15dafff9fd3_7670&search_date=16112026&expected_price_uuid=01a1e1e6-4bd6-8030-ea52-be1f8baf9ae0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LgC-TkdV_55m2sh3jjGUZQ&expected_price_source=share&expected_price_currency=eur&expected_price=84"
-    },
-    {
-      "origin": "ALC",
       "destination": "GDN",
       "price": 84,
       "airline": "FR",
@@ -1552,6 +1596,17 @@
       "days": 5,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC1412LON19121?t=U217972853001797291300000160ALCLGW17976996001797711900000145SENALC_0142d1b728e1b1b4c2ee72983e007bde_7790&search_date=09112026&expected_price_uuid=01a1c126-baff-8040-ac2d-3dfcac2b2925&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=J8AkPvYmgMuKUduW4uKFsw&expected_price_source=share&expected_price_currency=eur&expected_price=84"
+    },
+    {
+      "origin": "ALC",
+      "destination": "FRA",
+      "price": 84,
+      "airline": "FR",
+      "departure": "2026-12-17",
+      "return": "2026-12-19",
+      "days": 2,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC1712FRA19121?t=FR17975286001797538200000160ALCHHN17976606001797669600000150HHNALC_086ec36a9562f1653727e15dafff9fd3_7670&search_date=16112026&expected_price_uuid=01a1e1e6-4bd6-8030-ea52-be1f8baf9ae0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LgC-TkdV_55m2sh3jjGUZQ&expected_price_source=share&expected_price_currency=eur&expected_price=84"
     },
     {
       "origin": "ALC",
@@ -1621,17 +1676,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "BCN",
-      "price": 86,
-      "airline": "VY",
-      "departure": "2026-11-29",
-      "return": "2026-12-03",
-      "days": 4,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC2911BCN03121?t=VY17959353001795939500000070ALCBCN17962788001796283000000070BCNALC_9763baf408c37c20ed468a1591344a70_7823&search_date=15112026&expected_price_uuid=01a1e008-b10d-8031-2791-5e8dface5cb9&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tGWVhulM2WrPQACzsYgUWw&expected_price_source=share&expected_price_currency=eur&expected_price=86"
-    },
-    {
-      "origin": "ALC",
       "destination": "CTA",
       "price": 86,
       "airline": "FR",
@@ -1643,14 +1687,14 @@
     },
     {
       "origin": "ALC",
-      "destination": "MIL",
+      "destination": "BUD",
       "price": 86,
-      "airline": "FR",
-      "departure": "2026-12-28",
-      "return": "2026-12-31",
+      "airline": "W9",
+      "departure": "2027-01-15",
+      "return": "2027-01-18",
       "days": 3,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC2812MIL31121?t=FR17984406001798448100000125ALCMXP17987502001798758000000130MXPALC_f55fd066ab9f913da391b1162ec65e00_7823&search_date=15112026&expected_price_uuid=01a1df20-2435-8031-2cab-2c882de7529e&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=N3V2rZ876D2d_gAAndxPdQ&expected_price_source=share&expected_price_currency=eur&expected_price=86"
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC1501BUD18011?t=W618000465001800091500000750ALCLTNSTNBUD18002502001800261900000195BUDALC_d3f0c8d2d8157dea5673428ae4cc23b1_7831&search_date=16112026&expected_price_uuid=01a1e47c-f232-8030-e727-74e78ff04de0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7PX5Q2om8nOPAvGrg6Srsg&expected_price_source=share&expected_price_currency=eur&expected_price=86"
     },
     {
       "origin": "ALC",
@@ -1687,14 +1731,36 @@
     },
     {
       "origin": "ALC",
-      "destination": "BCN",
+      "destination": "OPO",
       "price": 87,
-      "airline": "VY",
-      "departure": "2026-12-03",
-      "return": "2026-12-05",
-      "days": 2,
+      "airline": "FR",
+      "departure": "2026-11-30",
+      "return": "2026-12-01",
+      "days": 1,
       "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC0312BCN05121?t=VY17963274001796331600000070ALCBCN17965062001796510400000070BCNALC_287d881e5467aaa6592091b5a0b186c5_7950&search_date=14112026&expected_price_uuid=01a1d876-da1f-8031-2388-5bbdb2973ba1&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tqSJct2vVzCqQV77tnnLbA&expected_price_source=share&expected_price_currency=eur&expected_price=87"
+      "link": "https://www.aviasales.com/search/ALC3011OPO01121?t=U217960223001796024700000100ALCOPO17961534001796246700001495OPOMXPALC_627fa3071319b06eb5e33ff8df57e571_8107&search_date=10112026&expected_price_uuid=01a1c676-c183-8030-e009-4cf4fd70ef4d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wxmED7TusM7lJOQzDqf5iA&expected_price_source=share&expected_price_currency=eur&expected_price=87"
+    },
+    {
+      "origin": "ALC",
+      "destination": "WAW",
+      "price": 87,
+      "airline": "W6",
+      "departure": "2026-12-30",
+      "return": "2027-01-04",
+      "days": 5,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC3012WAW04011?t=W617986272001798639800000210ALCWAW17990430001799056500000225WAWALC_011583073e197259f0ea1b1c323ba487_7889&search_date=16112026&expected_price_uuid=01a1e44d-68f9-8030-663b-25f9af63079c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=G8qAS39a00kwyWKxa28p2Q&expected_price_source=share&expected_price_currency=eur&expected_price=87"
+    },
+    {
+      "origin": "ALC",
+      "destination": "LON",
+      "price": 87,
+      "airline": "U2",
+      "departure": "2026-12-01",
+      "return": "2026-12-06",
+      "days": 5,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC0112LON06121?t=U217961270001796133000000160ALCSEN17965488001796561700000155STNALC_3d4e63f56be31b37ad3eb912b82e9aab_7894&search_date=16112026&expected_price_uuid=01a1e370-b16a-8040-a300-5ca0ae86a52a&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=bL-5WMx7i-9R_gJSQ9Z-NA&expected_price_source=share&expected_price_currency=eur&expected_price=87"
     },
     {
       "origin": "ALC",
@@ -1706,28 +1772,6 @@
       "days": 4,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC0312LON07121?t=FR17963031001796309100000160ALCLTN17966232001796636100000155STNALC_62369d1f990b495bf571531fefcb8a64_7990&search_date=15112026&expected_price_uuid=01a1de24-9983-8031-658e-208253f06142&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=bPvv1GwtnSMhCI2bhH_zOw&expected_price_source=share&expected_price_currency=eur&expected_price=87"
-    },
-    {
-      "origin": "ALC",
-      "destination": "BUD",
-      "price": 87,
-      "airline": "W4",
-      "departure": "2027-01-15",
-      "return": "2027-01-18",
-      "days": 3,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC1501BUD18011?t=W618000279001800085800000965ALCMXPBUD18002502001800261900000195BUDALC_1cc6a2e9da9c8f8fe1b4973427893a51_7952&search_date=15112026&expected_price_uuid=01a1e0fa-3323-8031-6aaa-1e97a9f9f86f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jxlzW9YDnFN8iziRMAFMRQ&expected_price_source=share&expected_price_currency=eur&expected_price=87"
-    },
-    {
-      "origin": "ALC",
-      "destination": "PMI",
-      "price": 88,
-      "airline": "VY",
-      "departure": "2026-12-22",
-      "return": "2026-12-27",
-      "days": 5,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC2212PMI27121?t=VY17979435001797947100000060ALCPMI17983950001798398600000060PMIALC_0c7d783038b09f1552ed87b9c53e27f1_8104&search_date=09112026&expected_price_uuid=01a1c052-e4cc-8030-a224-dc83da58b233&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YXJg2HnW2Qr4UiEPpHoCpw&expected_price_source=share&expected_price_currency=eur&expected_price=88"
     },
     {
       "origin": "ALC",
@@ -1761,17 +1805,6 @@
       "days": 2,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC2101PAR23011?t=VY18005601001800568500000140ALCORY18007149001800722400000125ORYALC_73b3f320083f5faf2080a2198f021a25_8146&search_date=10112026&expected_price_uuid=01a1c5b4-178f-8030-edf5-a73df9ea43c5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jCcr3AED_puDtohc-HbeJw&expected_price_source=share&expected_price_currency=eur&expected_price=88"
-    },
-    {
-      "origin": "ALC",
-      "destination": "TCI",
-      "price": 88,
-      "airline": "VY",
-      "departure": "2027-01-23",
-      "return": "2027-01-29",
-      "days": 6,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC2301TCI29011?t=VY18006852001800692700000185ALCTFN18012516001801265400000170TFNALC_0e01a9ad1e975e4b5296fdbcdd2de0d3_8153&search_date=09112026&expected_price_uuid=01a1bf94-b3f4-8030-afc9-3fac46034783&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Q-YugncJtCEzd6Zh10GfVg&expected_price_source=share&expected_price_currency=eur&expected_price=88"
     },
     {
       "origin": "ALC",
@@ -1852,17 +1885,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "VIE",
-      "price": 92,
-      "airline": "FR",
-      "departure": "2026-12-31",
-      "return": "2027-01-01",
-      "days": 1,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC3112VIE01011?t=FR17987184001798728600000170ALCVIE17987829001798807800000415VIEPMIALC_dfea4fc3b3feee3ee883edbff88e40c0_8400&search_date=15112026&expected_price_uuid=01a1df1b-0006-8030-e571-dd284fb1c657&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QbrEuy1AbK6-2WNgVLuCBw&expected_price_source=share&expected_price_currency=eur&expected_price=92"
-    },
-    {
-      "origin": "ALC",
       "destination": "VCE",
       "price": 92,
       "airline": "W4",
@@ -1896,17 +1918,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "WAW",
-      "price": 93,
-      "airline": "W6",
-      "departure": "2026-12-30",
-      "return": "2027-01-04",
-      "days": 5,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC3012WAW04011?t=W617986470001798660200000220ALCWAW17990430001799056500000225WAWALC_dd6280bc172d773c64f7efdcc4519ea3_8523&search_date=13112026&expected_price_uuid=01a1d3f1-98d1-8030-2fcc-8727ea62a8b7&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2tr7HrSPAMKH7ekvSxuuJw&expected_price_source=share&expected_price_currency=eur&expected_price=93"
-    },
-    {
-      "origin": "ALC",
       "destination": "TCI",
       "price": 93,
       "airline": "VY",
@@ -1926,6 +1937,39 @@
       "days": 2,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC2112BIO23121?t=V717978892001797894600000090ALCBIO17980599001798099800000665BIOMADALC_6ec7af00c4ccfd2779b6d6340baa4c86_8532&search_date=14112026&expected_price_uuid=01a1db49-10b6-8030-2afc-2a74b8f60d85&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=21H-jwU4HhWal2na1NnAyQ&expected_price_source=share&expected_price_currency=eur&expected_price=93"
+    },
+    {
+      "origin": "ALC",
+      "destination": "BUD",
+      "price": 93,
+      "airline": "W6",
+      "departure": "2027-01-22",
+      "return": "2027-01-24",
+      "days": 2,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC2201BUD24011?t=W618006102001800621000000180ALCBUD18007686001800780300000195BUDALC_eb40c02afaac9a3bae90a89ce84f906f_8423&search_date=16112026&expected_price_uuid=01a1e40f-4e44-8031-2405-3cd72b034f54&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=D37P9e_B8ttBqxKAdzPhNg&expected_price_source=share&expected_price_currency=eur&expected_price=93"
+    },
+    {
+      "origin": "ALC",
+      "destination": "PMI",
+      "price": 93,
+      "airline": "UX",
+      "departure": "2027-01-09",
+      "return": "2027-01-14",
+      "days": 5,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC0901PMI14011?t=UX17994852001799488500000055ALCPMI17999235001799927100000060PMIALC_e1be12d166b6d679d7fa6cd5128a397c_8459&search_date=16112026&expected_price_uuid=01a1e3ca-c5e2-8030-a0de-1d8a409d29a0&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=J-U-qiJA5yKvvA96DgH41Q&expected_price_source=share&expected_price_currency=eur&expected_price=93"
+    },
+    {
+      "origin": "ALC",
+      "destination": "PMI",
+      "price": 93,
+      "airline": "UX",
+      "departure": "2027-01-13",
+      "return": "2027-01-13",
+      "days": 0,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC1301PMI13011?t=UX17998308001799834100000055ALCPMI17998665001799870100000060PMIALC_0d67b568610bf2d497aefc34a822beeb_8459&search_date=16112026&expected_price_uuid=01a1e3ca-c28e-8030-6f2b-becfe81c6c99&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=4yF5C_9P1T20t2bPG6N-FA&expected_price_source=share&expected_price_currency=eur&expected_price=93"
     },
     {
       "origin": "ALC",
@@ -1962,6 +2006,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "FMM",
+      "price": 94,
+      "airline": "FR",
+      "departure": "2027-01-27",
+      "return": "2027-01-31",
+      "days": 4,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC2701FMM31011?t=FR18010875001801152300001080ALCSTNFMM18013968001801405500000145FMMALC_4c87c694fb340f1f41973e30157af5f4_8543&search_date=16112026&expected_price_uuid=01a1e43b-88e3-8030-6cc3-fce2fe890698&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fqv0YYD8tNlxvUACNx9BxQ&expected_price_source=share&expected_price_currency=eur&expected_price=94"
+    },
+    {
+      "origin": "ALC",
       "destination": "MIL",
       "price": 95,
       "airline": "FR",
@@ -1984,14 +2039,14 @@
     },
     {
       "origin": "ALC",
-      "destination": "PAR",
+      "destination": "FRA",
       "price": 95,
-      "airline": "VY",
-      "departure": "2026-12-16",
-      "return": "2026-12-17",
-      "days": 1,
+      "airline": "MW",
+      "departure": "2026-12-28",
+      "return": "2027-01-03",
+      "days": 6,
       "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1612PAR17121?t=FR17974497001797458100000140ALCORY17974884001797511800000390BVADUBALC_12b8163f9b0db6854eeaf3b0fe00cdf3_8619&search_date=13112026&expected_price_uuid=01a1d4cb-031a-8030-e4d4-80779096a235&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wwTYEBmQF4EUw0AoaFkBgw&expected_price_source=share&expected_price_currency=eur&expected_price=95"
+      "link": "https://www.aviasales.com/search/ALC2812FRA03011?t=FR17984901001798499700000160ALCHHN17989695001798978500000150HHNALC_5775acc721a04c20077b73ba40ebc810_8645&search_date=16112026&expected_price_uuid=01a1e2db-aa9f-8030-a4d4-8fbbeeaa37e1&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IQ7hPcmY7ATJAP5nOaq4HA&expected_price_source=share&expected_price_currency=eur&expected_price=95"
     },
     {
       "origin": "ALC",
@@ -2226,14 +2281,14 @@
     },
     {
       "origin": "ALC",
-      "destination": "FMM",
+      "destination": "PAR",
       "price": 99,
-      "airline": "FR",
-      "departure": "2027-01-27",
-      "return": "2027-01-31",
-      "days": 4,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC2701FMM31011?t=FR18010875001801152300001080ALCSTNFMM18013968001801405500000145FMMALC_4c87c694fb340f1f41973e30157af5f4_9062&search_date=13112026&expected_price_uuid=01a1d379-8796-8030-2888-0af0f53621c7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fqv0YYD8tNlxvUACNx9BxQ&expected_price_source=share&expected_price_currency=eur&expected_price=99"
+      "airline": "VY",
+      "departure": "2026-12-16",
+      "return": "2026-12-17",
+      "days": 1,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC1612PAR17121?t=VY17974497001797458100000140ALCORY17975001001797546900000780CDGMXPBGYALC_180d05fefb690af868c0e94f43f66a3d_8996&search_date=16112026&expected_price_uuid=01a1e3f7-a131-8030-a8ad-ad7195db65ce&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=mbrvRlU7lXUyDjwWdFxv7w&expected_price_source=share&expected_price_currency=eur&expected_price=99"
     },
     {
       "origin": "ALC",
@@ -2261,12 +2316,12 @@
       "origin": "ALC",
       "destination": "LON",
       "price": 100,
-      "airline": "U2",
+      "airline": "FR",
       "departure": "2026-12-26",
       "return": "2026-12-30",
       "days": 4,
       "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC2612LON30121?t=U217983161001798322100000160ALCLGW17986128001798625700000155STNALC_5affa730d72afe1d526864136826ec31_9160&search_date=13112026&expected_price_uuid=01a1d38d-c930-8031-27ad-b2f7b5e0a4de&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1HTGTYWrNFMdPevYP0zqvg&expected_price_source=share&expected_price_currency=eur&expected_price=100"
+      "link": "https://www.aviasales.com/search/ALC2612LON30121?t=FR17983221001798328100000160ALCSTN17986128001798625700000155STNALC_292e4689f0c58410f35092b24e1c3679_9092&search_date=16112026&expected_price_uuid=01a1e3f7-13b3-8030-a316-8c25d5d3e20f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=I-2GmroE4pBGWIY0ePME0g&expected_price_source=share&expected_price_currency=eur&expected_price=100"
     },
     {
       "origin": "ALC",
@@ -2336,17 +2391,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "GOT",
-      "price": 101,
-      "airline": "D8",
-      "departure": "2027-01-01",
-      "return": "2027-01-04",
-      "days": 3,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC0101GOT04011?t=D817987850001798797600000210ALCGOT17990667001799079300000210GOTALC_7d74f0afbff255e1fc4cae3a70da9201_9266&search_date=09112026&expected_price_uuid=01a1bebe-26d4-8031-2b82-d8babcedb11d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=w73D8jIa_lwzx6K1HGw7tg&expected_price_source=share&expected_price_currency=eur&expected_price=101"
-    },
-    {
-      "origin": "ALC",
       "destination": "PAR",
       "price": 102,
       "airline": "FR",
@@ -2358,17 +2402,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "PMI",
-      "price": 102,
-      "airline": "UX",
-      "departure": "2026-11-18",
-      "return": "2026-11-19",
-      "days": 1,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1811PMI19111?t=IB17949924001794995700000055ALCPMI17951274001795163700000605PMIMADALC_32ce5da73e4c2712dd27fbe6269d0a46_9466&search_date=09112026&expected_price_uuid=01a1bfa3-0a04-8030-a208-f5b46349fd25&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YWdrX-SmEOfSOp9U7q8n0g&expected_price_source=share&expected_price_currency=eur&expected_price=102"
-    },
-    {
-      "origin": "ALC",
       "destination": "KRK",
       "price": 102,
       "airline": "FR",
@@ -2377,6 +2410,17 @@
       "days": 0,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC2412KRK24121?t=FR17980923001798103700000190ALCKRK17981130001798125000000200KRKALC_2c90959a36bf0694a2857ee7a4660d5b_9285&search_date=14112026&expected_price_uuid=01a1dba2-777a-8040-ab45-2de6971d799d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zt2wk_wBgb6psyAV8YUDpQ&expected_price_source=share&expected_price_currency=eur&expected_price=102"
+    },
+    {
+      "origin": "ALC",
+      "destination": "ROM",
+      "price": 102,
+      "airline": "FR",
+      "departure": "2026-12-20",
+      "return": "2026-12-26",
+      "days": 6,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC2012ROM26121?t=FR17977923001797799800000125ALCFCO17982750001798282800000130FCOALC_dc4132284ee2a725febcb489c95b0d95_9274&search_date=16112026&expected_price_uuid=01a1e41e-dad7-8031-291a-3ca3ed2e48bb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=3SUSCAu5KelSs7MjgoYUIg&expected_price_source=share&expected_price_currency=eur&expected_price=102"
     },
     {
       "origin": "ALC",
@@ -2410,6 +2454,17 @@
       "days": 1,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC2611PMI27111?t=IB17957025001795706100000060ALCPMI17958111001795854900000730PMIMADALC_fbb3c7009de787ea29fd74caaf4ca073_9379&search_date=15112026&expected_price_uuid=01a1dea6-be63-8030-2de4-3603bd77c1ed&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=LW8A6pR43noPLn7xV3ugMQ&expected_price_source=share&expected_price_currency=eur&expected_price=103"
+    },
+    {
+      "origin": "ALC",
+      "destination": "FMM",
+      "price": 104,
+      "airline": "FR",
+      "departure": "2027-01-12",
+      "return": "2027-01-15",
+      "days": 3,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC1201FMM15011?t=FR17997771001799872500001590ALCSTNFMM17999937001800002400000145FMMALC_2ef52dfad4e41726b5f80a258d7560ba_9477&search_date=16112026&expected_price_uuid=01a1e4c1-84d2-8030-e682-71589287e04a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=AHUlLN-vV1MO9dZNYB7RdA&expected_price_source=share&expected_price_currency=eur&expected_price=104"
     },
     {
       "origin": "ALC",
@@ -2457,6 +2512,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "FMM",
+      "price": 105,
+      "airline": "W9",
+      "departure": "2027-01-10",
+      "return": "2027-01-16",
+      "days": 6,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC1001FMM16011?t=W917996145001799664000000825ALCLTNSTNFMM18000792001800087900000145FMMALC_ccdf50f580fc7db88577c067710d067c_9554&search_date=16112026&expected_price_uuid=01a1e4c2-3bb0-8030-2a80-4cec1c5a9849&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=P5w_pEWglmOGfTV4soGJDQ&expected_price_source=share&expected_price_currency=eur&expected_price=105"
+    },
+    {
+      "origin": "ALC",
       "destination": "DUS",
       "price": 105,
       "airline": "MW",
@@ -2501,6 +2567,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "OVD",
+      "price": 106,
+      "airline": "UX",
+      "departure": "2026-12-30",
+      "return": "2027-01-01",
+      "days": 2,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC3012OVD01011?t=V717986635001798710300000780ALCMADOVD17988333001798838700000090OVDALC_92f6d654904ecda0ce8ba23ee6a95873_9613&search_date=16112026&expected_price_uuid=01a1e44c-240b-8030-aa1b-7d01070e3d26&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YgpxqMacJMbDCmZ3jVPeRw&expected_price_source=share&expected_price_currency=eur&expected_price=106"
+    },
+    {
+      "origin": "ALC",
       "destination": "PAR",
       "price": 106,
       "airline": "FR",
@@ -2509,6 +2586,17 @@
       "days": 6,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC1912PAR25121?t=FR17977041001797712200000135ALCBVA17981784001798186200000130ORYALC_6de675225019a2ecdf449a4c882dd9cd_9721&search_date=12112026&expected_price_uuid=01a1ced9-ca42-8031-2d3f-014b7e71e226&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=88oMlsOPL5P3gM8OwbOohg&expected_price_source=share&expected_price_currency=eur&expected_price=106"
+    },
+    {
+      "origin": "ALC",
+      "destination": "FMM",
+      "price": 106,
+      "airline": "AL",
+      "departure": "2027-01-10",
+      "return": "2027-01-15",
+      "days": 5,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC1001FMM15011?t=FR17996226001799664000000690ALCSTNFMM17999937001800002400000145FMMALC_ec5e9cd043704508dc433bcf58c42465_9645&search_date=16112026&expected_price_uuid=01a1e4c2-fc9b-8030-aa00-8464df49885a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xv2HmI4DeAfg-hHmRkitgg&expected_price_source=share&expected_price_currency=eur&expected_price=106"
     },
     {
       "origin": "ALC",
@@ -2622,6 +2710,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "TTU",
+      "price": 108,
+      "airline": "FR",
+      "departure": "2026-12-28",
+      "return": "2027-01-02",
+      "days": 5,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC2812TTU02011?t=FR17984616001798462500000075ALCTTU17988957001798903500000070TTUALC_df7fddde0b9d9b964ca4ed1093511b3d_9830&search_date=16112026&expected_price_uuid=01a1e406-3367-8031-26e8-17e52522eb79&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=vR-kxBZINsBZpO3dYaZz-w&expected_price_source=share&expected_price_currency=eur&expected_price=108"
+    },
+    {
+      "origin": "ALC",
       "destination": "TCI",
       "price": 108,
       "airline": "VY",
@@ -2644,14 +2743,14 @@
     },
     {
       "origin": "ALC",
-      "destination": "PMI",
+      "destination": "OVD",
       "price": 109,
       "airline": "UX",
-      "departure": "2026-11-17",
-      "return": "2026-11-18",
-      "days": 1,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1711PMI18111?t=UX17949060001794909300000055ALCPMI17949987001795002300000060PMIALC_7932b721e8fae3a71ab96bf1c48367e0_10053&search_date=11112026&expected_price_uuid=01a1c9cd-77b1-8030-a62f-ad12d14e8350&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jXcQzdXd862UdTf2JIPoLA&expected_price_source=share&expected_price_currency=eur&expected_price=109"
+      "departure": "2026-12-30",
+      "return": "2027-01-03",
+      "days": 4,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC3012OVD03011?t=V717986635001798710300000780ALCMADOVD17989908001798996200000090OVDALC_4c27af58e00d40355419824f51daf3ee_9932&search_date=16112026&expected_price_uuid=01a1e44c-240b-8030-e617-a410e4d36be2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Vg1dpnEHGr-Wd_yii15o5g&expected_price_source=share&expected_price_currency=eur&expected_price=109"
     },
     {
       "origin": "ALC",
@@ -2688,14 +2787,14 @@
     },
     {
       "origin": "ALC",
-      "destination": "CGN",
+      "destination": "MAD",
       "price": 110,
-      "airline": "FR",
-      "departure": "2026-12-28",
-      "return": "2027-01-02",
-      "days": 5,
+      "airline": "UX",
+      "departure": "2026-11-27",
+      "return": "2026-11-30",
+      "days": 3,
       "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC2812CGN02011?t=FR17984799001798489500000160ALCCGN17988714001798880700000155CGNALC_3e431c76eccd9ccbdcf5543076967458_10044&search_date=14112026&expected_price_uuid=01a1da15-9cdd-8030-25d1-ebcad0875810&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=APpJ7ewsGLxvPBA9esaQ0Q&expected_price_source=share&expected_price_currency=eur&expected_price=110"
+      "link": "https://www.aviasales.com/search/ALC2711MAD30111?t=UX17958123001795816500000070ALCMAD17960220001796026200000070MADALC_acb9f0d971c822691c879d4fb2a272d4_10073&search_date=14112026&expected_price_uuid=01a1db4b-e6da-8030-691b-30a4c3b3d487&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tU8-uxyw8LlH7DacJsdyTg&expected_price_source=share&expected_price_currency=eur&expected_price=110"
     },
     {
       "origin": "ALC",
@@ -2735,6 +2834,17 @@
       "destination": "MAD",
       "price": 111,
       "airline": "UX",
+      "departure": "2026-11-18",
+      "return": "2026-11-19",
+      "days": 1,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC1811MAD19111?t=UX17950347001795038900000070ALCMAD17950716001795075800000070MADALC_6d21c17023154829ab1740c012194a29_10088&search_date=16112026&expected_price_uuid=01a1e429-ae8c-8030-26d1-2b5af90192a8&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=S6mWu3zcsKxPMbJRmcDoXw&expected_price_source=share&expected_price_currency=eur&expected_price=111"
+    },
+    {
+      "origin": "ALC",
+      "destination": "MAD",
+      "price": 111,
+      "airline": "UX",
       "departure": "2026-11-20",
       "return": "2026-11-23",
       "days": 3,
@@ -2743,14 +2853,14 @@
     },
     {
       "origin": "ALC",
-      "destination": "MLA",
+      "destination": "MAD",
       "price": 111,
-      "airline": "FR",
-      "departure": "2026-11-16",
+      "airline": "UX",
+      "departure": "2026-11-17",
       "return": "2026-11-19",
-      "days": 3,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC1611MLA19111?t=FR17948349001794874200000655ALCCTAMLA17950878001795175400001460MLACTAALC_8062824575bd567c2d7726d9ebe466d7_10298&search_date=10112026&expected_price_uuid=01a1c5ab-c4d0-8030-6cd2-47236c54083c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wmYiU96o4Wa-3iUNz2iUkQ&expected_price_source=share&expected_price_currency=eur&expected_price=111"
+      "days": 2,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC1711MAD19111?t=UX17949483001794952500000070ALCMAD17950716001795075800000070MADALC_7a914f8ca79e873917559974bd0b8549_10069&search_date=16112026&expected_price_uuid=01a1e377-b064-8030-aa49-a63d5353ca6e&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GhR1DdOq1IX1yIUdxV7QsQ&expected_price_source=share&expected_price_currency=eur&expected_price=111"
     },
     {
       "origin": "ALC",
@@ -2765,6 +2875,28 @@
     },
     {
       "origin": "ALC",
+      "destination": "PAR",
+      "price": 111,
+      "airline": "FR",
+      "departure": "2026-12-20",
+      "return": "2026-12-28",
+      "days": 8,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC2012PAR28121?t=FR17977575001797765600000135ALCBVA17984394001798447200000130ORYALC_5365b4c52300e2e8b8a93ef4fc972216_10088&search_date=16112026&expected_price_uuid=01a1e458-548d-8031-2032-e966dfcd79b9&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8NsvflT2X0g1I2v0qCPOmg&expected_price_source=share&expected_price_currency=eur&expected_price=111"
+    },
+    {
+      "origin": "ALC",
+      "destination": "BUD",
+      "price": 111,
+      "airline": "FR",
+      "departure": "2026-12-11",
+      "return": "2026-12-16",
+      "days": 5,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC1112BUD16121?t=W617970021001797012900000180ALCBUD17973990001797410700000195BUDALC_8f96e2537212e437649a964d53d4d0dc_10105&search_date=16112026&expected_price_uuid=01a1e45e-af54-8031-27a9-d41f69b67b02&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5Bw0wE7-JBxlEp5zwE2ZTQ&expected_price_source=share&expected_price_currency=eur&expected_price=111"
+    },
+    {
+      "origin": "ALC",
       "destination": "MIL",
       "price": 111,
       "airline": "FR",
@@ -2773,17 +2905,6 @@
       "days": 10,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC2312MIL02011?t=W417980086001798016100000125ALCMXP17989170001798925100000135MXPALC_9361502c965eb5077eedd620e99b108a_10169&search_date=14112026&expected_price_uuid=01a1db0d-1c15-8030-e29d-5bf534481a79&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=RVu_8lkKXUPLZeqCKKU-cA&expected_price_source=share&expected_price_currency=eur&expected_price=111"
-    },
-    {
-      "origin": "ALC",
-      "destination": "STO",
-      "price": 112,
-      "airline": "MW",
-      "departure": "2026-12-30",
-      "return": "2027-01-05",
-      "days": 6,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC3012STO05011?t=FR17986278001798642500000245ALCARN17991750001799189700000245ARNALC_c2f2a1c00ce4359ac745f392c2cb86c0_10398&search_date=09112026&expected_price_uuid=01a1c0ac-3943-8030-ae78-9f233b7e4c6c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1dB2m9VYwE68pKQswpAcmw&expected_price_source=share&expected_price_currency=eur&expected_price=112"
     },
     {
       "origin": "ALC",
@@ -2798,28 +2919,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "FMM",
-      "price": 112,
-      "airline": "LW",
-      "departure": "2027-01-11",
-      "return": "2027-01-15",
-      "days": 4,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC1101FMM15011?t=FR17996820001799703600000360ALCZAGFMM17999937001800002400000145FMMALC_89259761091aa6fbc0da6e1c5d858e88_10211&search_date=13112026&expected_price_uuid=01a1d701-604f-8031-2330-46d4c7259f93&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=CVEJGBBYy1GQ7zQPQai52A&expected_price_source=share&expected_price_currency=eur&expected_price=112"
-    },
-    {
-      "origin": "ALC",
-      "destination": "MLA",
-      "price": 113,
-      "airline": "FR",
-      "departure": "2026-11-16",
-      "return": "2026-11-20",
-      "days": 4,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC1611MLA20111?t=FR17948349001794874200000655ALCCTAMLA17951673001795248600001355MLATSFVCEALC_f095b3abc91314ebc02454934e58dd03_10488&search_date=09112026&expected_price_uuid=01a1c2bf-80cc-8030-6dc4-d1f9cf1d8838&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=--vNHO-t9DtWXvWAOh_n-w&expected_price_source=share&expected_price_currency=eur&expected_price=113"
-    },
-    {
-      "origin": "ALC",
       "destination": "ROM",
       "price": 113,
       "airline": "W4",
@@ -2828,6 +2927,17 @@
       "days": 9,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC1911ROM28111?t=FR17951037001795111200000125ALCFCO17958783001795886100000130FCOALC_6a65192febc8c6445407a5b482c86d6d_10449&search_date=11112026&expected_price_uuid=01a1cbba-e04e-8030-a7db-0734169a1e00&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jrxpu5Zwi1iNGcSW-98DXw&expected_price_source=share&expected_price_currency=eur&expected_price=113"
+    },
+    {
+      "origin": "ALC",
+      "destination": "FMM",
+      "price": 113,
+      "airline": "LW",
+      "departure": "2027-01-11",
+      "return": "2027-01-15",
+      "days": 4,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC1101FMM15011?t=FR17996820001799703600000360ALCZAGFMM17999937001800002400000145FMMALC_89259761091aa6fbc0da6e1c5d858e88_10281&search_date=16112026&expected_price_uuid=01a1e4c0-9f5e-8031-2821-1bad7b6af03e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=CVEJGBBYy1GQ7zQPQai52A&expected_price_source=share&expected_price_currency=eur&expected_price=113"
     },
     {
       "origin": "ALC",
@@ -2853,6 +2963,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "BCN",
+      "price": 114,
+      "airline": "VY",
+      "departure": "2026-11-24",
+      "return": "2026-11-24",
+      "days": 0,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC2411BCN24111?t=VY17955078001795512000000070ALCBCN17955384001795542600000070BCNALC_6c96caa506b8225137bc084fe2224d20_10362&search_date=16112026&expected_price_uuid=01a1e3a3-52f6-8030-a937-da0d48b87a0f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=IWr7CzOCk1c3S_xPN_j-Jg&expected_price_source=share&expected_price_currency=eur&expected_price=114"
+    },
+    {
+      "origin": "ALC",
       "destination": "FMM",
       "price": 114,
       "airline": "FR",
@@ -2872,17 +2993,6 @@
       "days": 2,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC1912FRA21121?t=FR17976717001797681300000160ALCHHN17978742001797883200000150HHNALC_623084c675ae5f5698c431049627b530_10409&search_date=14112026&expected_price_uuid=01a1daac-6f6d-8031-6dfb-bee1d02fa6af&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=G_2J63t3vpSherNX0x5_FQ&expected_price_source=share&expected_price_currency=eur&expected_price=114"
-    },
-    {
-      "origin": "ALC",
-      "destination": "RMO",
-      "price": 115,
-      "airline": "W4",
-      "departure": "2026-12-11",
-      "return": "2026-12-16",
-      "days": 5,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1112RMO16121?t=W417969796001796997000000230ALCRMO17973981001797408900000240RMOALC_44848265e6abae3820a9405e7515a391_10528&search_date=12112026&expected_price_uuid=01a1d185-aec7-8030-ada0-9a7658f2246b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ieOBpnx8vSZk-_ci1auyRA&expected_price_source=share&expected_price_currency=eur&expected_price=115"
     },
     {
       "origin": "ALC",
@@ -2963,6 +3073,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "PMI",
+      "price": 117,
+      "airline": "UX",
+      "departure": "2026-11-23",
+      "return": "2026-11-24",
+      "days": 1,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC2311PMI24111?t=UX17954667001795513500000780ALCMADPMI17955465001795550100000060PMIALC_ea892c2d9ec1f6650c92accb818e4144_10618&search_date=16112026&expected_price_uuid=01a1e335-a113-8030-27e3-d8b5700ad044&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rjLYJuiDIpYVl27mOQyAww&expected_price_source=share&expected_price_currency=eur&expected_price=117"
+    },
+    {
+      "origin": "ALC",
       "destination": "BIO",
       "price": 117,
       "airline": "VY",
@@ -2971,6 +3092,17 @@
       "days": 7,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC2411BIO01121?t=VY17955057001795510800000085ALCBIO17961468001796196000000820BIOBCNALC_098211f96a7bcbdb533d6ebeece2c4fd_10726&search_date=12112026&expected_price_uuid=01a1d17e-e3bf-8031-28c2-57caa58e6e68&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=CUi2ZDNJ_K2P_hTLgLSAOw&expected_price_source=share&expected_price_currency=eur&expected_price=117"
+    },
+    {
+      "origin": "ALC",
+      "destination": "OVD",
+      "price": 117,
+      "airline": "V7",
+      "departure": "2026-12-29",
+      "return": "2027-01-04",
+      "days": 6,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC2912OVD04011?t=V717985813001798587300000100ALCOVD17990622001799067600000090OVDALC_c9fa3aa0f83a7a76c4a1f89f7121d85d_10682&search_date=16112026&expected_price_uuid=01a1e44c-4aca-8030-e3f6-26acf6ad229a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Cyyaja7DFsG3iSVpgkkyJA&expected_price_source=share&expected_price_currency=eur&expected_price=117"
     },
     {
       "origin": "ALC",
@@ -3018,17 +3150,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "PAR",
-      "price": 118,
-      "airline": "FR",
-      "departure": "2026-12-22",
-      "return": "2026-12-26",
-      "days": 4,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC2212PAR26121?t=FR17979246001797932700000135ALCBVA17983185001798326300000130BVAALC_54223652f906cfb86fe99bd9105c4cdc_10795&search_date=14112026&expected_price_uuid=01a1db84-b096-8031-6a7a-6314f447284e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7xkTUQu0FiNjQgf_75EZ-w&expected_price_source=share&expected_price_currency=eur&expected_price=118"
-    },
-    {
-      "origin": "ALC",
       "destination": "LON",
       "price": 119,
       "airline": "U2",
@@ -3051,6 +3172,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "PAR",
+      "price": 119,
+      "airline": "FR",
+      "departure": "2026-12-20",
+      "return": "2026-12-27",
+      "days": 7,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC2012PAR27121?t=FR17977575001797765600000135ALCBVA17983524001798360200000130BVAALC_4e4405368cf48617d693b6ac842b719e_10816&search_date=16112026&expected_price_uuid=01a1e457-b8ae-8030-e27e-18ef32d0117b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QAwG6itANkeW-THdZgWraA&expected_price_source=share&expected_price_currency=eur&expected_price=119"
+    },
+    {
+      "origin": "ALC",
       "destination": "VCE",
       "price": 119,
       "airline": "W4",
@@ -3070,28 +3202,6 @@
       "days": 7,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC2212KUN29121?t=FR17979225001797939900000230ALCKUN17985780001798588500000235KUNALC_a9aa4a4635bbf247d793ab070560b8c6_10917&search_date=12112026&expected_price_uuid=01a1cf04-979a-8031-642b-fc73d238806f&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=sxE5fGpDZrJL9NF6V3XB6A&expected_price_source=share&expected_price_currency=eur&expected_price=119"
-    },
-    {
-      "origin": "ALC",
-      "destination": "FMM",
-      "price": 119,
-      "airline": "LW",
-      "departure": "2027-01-11",
-      "return": "2027-01-16",
-      "days": 5,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC1101FMM16011?t=FR17996820001799703600000360ALCZAGFMM18000792001800087900000145FMMALC_9c847c70342befe847f02eccd8c964fd_10849&search_date=13112026&expected_price_uuid=01a1d701-88c6-8030-e3e6-43a66803b0df&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=gVexj95i4ajDf9aEeR1s7w&expected_price_source=share&expected_price_currency=eur&expected_price=119"
-    },
-    {
-      "origin": "ALC",
-      "destination": "FMM",
-      "price": 119,
-      "airline": "LW",
-      "departure": "2027-01-11",
-      "return": "2027-01-17",
-      "days": 6,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC1101FMM17011?t=FR17996820001799703600000360ALCZAGFMM18001872001800195900000145FMMALC_2f482d17e0b3da6c34d66c84ee8aa6a4_10849&search_date=13112026&expected_price_uuid=01a1d700-a7ee-8030-609a-0679cf134248&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kBHQpI0_AGrtyQVa4WwNJg&expected_price_source=share&expected_price_currency=eur&expected_price=119"
     },
     {
       "origin": "ALC",
@@ -3205,6 +3315,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "FMM",
+      "price": 120,
+      "airline": "LW",
+      "departure": "2027-01-11",
+      "return": "2027-01-16",
+      "days": 5,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC1101FMM16011?t=FR17996820001799703600000360ALCZAGFMM18000792001800087900000145FMMALC_9c847c70342befe847f02eccd8c964fd_10918&search_date=16112026&expected_price_uuid=01a1e4c0-641c-8030-2ad0-9fb5fdb4b0d9&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=gVexj95i4ajDf9aEeR1s7w&expected_price_source=share&expected_price_currency=eur&expected_price=120"
+    },
+    {
+      "origin": "ALC",
       "destination": "WAW",
       "price": 121,
       "airline": "FR",
@@ -3238,6 +3359,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "PAR",
+      "price": 121,
+      "airline": "FR",
+      "departure": "2026-12-31",
+      "return": "2027-01-07",
+      "days": 7,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC3112PAR07011?t=FR17987310001798757400000440ALCDUBBVA17993034001799311200000130ORYALC_26dd0e76e9dedd611e19897c884a9344_11042&search_date=16112026&expected_price_uuid=01a1e2d7-f9a1-8030-290b-01b504462beb&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=gKrlfZzFk_5t_MIOIoBwLA&expected_price_source=share&expected_price_currency=eur&expected_price=121"
+    },
+    {
+      "origin": "ALC",
       "destination": "KRK",
       "price": 122,
       "airline": "FR",
@@ -3257,28 +3389,6 @@
       "days": 4,
       "transfers": 1,
       "link": "https://www.aviasales.com/search/ALC1612KRK20121?t=FR17974548001797545400001510ALCCTAKRK17977491001797785400000605KRKCTAALC_87c9a6ddde369ee29e797af898aae5f7_11334&search_date=10112026&expected_price_uuid=01a1c667-2a8b-8031-6c10-ae615cabacae&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dY1Am5abt-SJPpEpEfStxg&expected_price_source=share&expected_price_currency=eur&expected_price=122"
-    },
-    {
-      "origin": "ALC",
-      "destination": "ROM",
-      "price": 122,
-      "airline": "MW",
-      "departure": "2026-12-30",
-      "return": "2027-01-01",
-      "days": 2,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC3012ROM01011?t=FR17986656001798673100000125ALCFCO17987949001798802700000130FCOALC_eed9360c228d75639473613b02bdcc11_11180&search_date=15112026&expected_price_uuid=01a1e018-1b8d-8030-2718-44030a6df856&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YSYMrsO9zOsjnBIT8Iuctw&expected_price_source=share&expected_price_currency=eur&expected_price=122"
-    },
-    {
-      "origin": "ALC",
-      "destination": "STO",
-      "price": 122,
-      "airline": "FR",
-      "departure": "2026-12-28",
-      "return": "2027-01-03",
-      "days": 6,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC2812STO03011?t=FR17984865001798501200000245ALCARN17989908001799005500000245ARNALC_d803f689d2e0a9990d53739f521dcd18_11164&search_date=13112026&expected_price_uuid=01a1d689-c83f-8031-6a18-f72da73e290c&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iGFhbnfpQayeInxP9bNejg&expected_price_source=share&expected_price_currency=eur&expected_price=122"
     },
     {
       "origin": "ALC",
@@ -3337,17 +3447,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "BLQ",
-      "price": 123,
-      "airline": "VY",
-      "departure": "2026-12-29",
-      "return": "2027-01-09",
-      "days": 11,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC2912BLQ09011?t=FR17985273001798556100000480ALCBCNBLQ17994885001799535900000790BLQBVAALC_3d1d009c33fa6c91db8511702fcb919e_11359&search_date=09112026&expected_price_uuid=01a1c0c9-e218-8031-219d-bbf0e9280f4b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=TZJjl0LQJ6dCeE8E90Wfkw&expected_price_source=share&expected_price_currency=eur&expected_price=123"
-    },
-    {
-      "origin": "ALC",
       "destination": "KRK",
       "price": 123,
       "airline": "FR",
@@ -3389,6 +3488,17 @@
       "days": 8,
       "transfers": 1,
       "link": "https://www.aviasales.com/search/ALC2201DUS30011?t=UX18006507001800696900000770ALCMADDUS18012939001801303200000155NRNALC_adee7870b729deb03ca3ec5028615687_11325&search_date=11112026&expected_price_uuid=01a1ccc8-1a45-8030-2583-1bf587898135&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Ow7ZHWDo8fBz7QiHJuJYsQ&expected_price_source=share&expected_price_currency=eur&expected_price=123"
+    },
+    {
+      "origin": "ALC",
+      "destination": "DUS",
+      "price": 123,
+      "airline": "UX",
+      "departure": "2027-01-23",
+      "return": "2027-01-29",
+      "days": 6,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC2301DUS29011?t=UX18007077001800726300000310ALCMADDUS18012381001801247400000155NRNALC_cffe43593a26bb541b4f6bd278bc7041_11325&search_date=11112026&expected_price_uuid=01a1ccc8-b3a2-8030-eb75-5078ca788f2b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=0x8NF1grm-op355wf2kxbA&expected_price_source=share&expected_price_currency=eur&expected_price=123"
     },
     {
       "origin": "ALC",
@@ -3513,17 +3623,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "TCI",
-      "price": 125,
-      "airline": "FR",
-      "departure": "2026-11-21",
-      "return": "2026-11-27",
-      "days": 6,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC2111TCI27111?t=FR17952408001795273200000600ALCCWLTFS17958144001795854900000615TFNMADALC_bb7cf8a19046c6938d96665c3f2f01a7_11525&search_date=09112026&expected_price_uuid=01a1c081-9a44-8030-a987-0244c5794891&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=JpNL_R25DUqr5TNpQlgSdA&expected_price_source=share&expected_price_currency=eur&expected_price=125"
-    },
-    {
-      "origin": "ALC",
       "destination": "GVA",
       "price": 125,
       "airline": "UX",
@@ -3587,17 +3686,6 @@
       "days": 5,
       "transfers": 1,
       "link": "https://www.aviasales.com/search/ALC2011SVQ25111?t=UX17952075001795253700000770ALCMADSVQ17956416001795680600000650SVQMADALC_52f085b085f996c360f2a4e565ab24df_11620&search_date=09112026&expected_price_uuid=01a1c0ff-0594-8030-6b17-8916305b3429&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=b61W-Va8jaiYMD4As6gsEw&expected_price_source=share&expected_price_currency=eur&expected_price=126"
-    },
-    {
-      "origin": "ALC",
-      "destination": "RMO",
-      "price": 126,
-      "airline": "W4",
-      "departure": "2026-12-06",
-      "return": "2026-12-15",
-      "days": 9,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC0612RMO15121?t=W417965476001796565000000230ALCRMO17973147001797347400000605RMOBGYMXPALC_8c79cf48157af01b257aafa3f2d30442_11605&search_date=09112026&expected_price_uuid=01a1c02c-c192-8031-2508-18fbd06f63bc&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=b7yk7v7RxUzALYpJSkp1Ng&expected_price_source=share&expected_price_currency=eur&expected_price=126"
     },
     {
       "origin": "ALC",
@@ -3689,6 +3777,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "FMM",
+      "price": 127,
+      "airline": "LW",
+      "departure": "2027-01-11",
+      "return": "2027-01-17",
+      "days": 6,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC1101FMM17011?t=FR17996820001799703600000360ALCZAGFMM18001872001800195900000145FMMALC_2f482d17e0b3da6c34d66c84ee8aa6a4_11555&search_date=16112026&expected_price_uuid=01a1e4c1-27a7-8030-e636-ef78cad400a9&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kBHQpI0_AGrtyQVa4WwNJg&expected_price_source=share&expected_price_currency=eur&expected_price=127"
+    },
+    {
+      "origin": "ALC",
       "destination": "BTS",
       "price": 128,
       "airline": "FR",
@@ -3766,28 +3865,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "BUD",
-      "price": 129,
-      "airline": "W6",
-      "departure": "2026-12-30",
-      "return": "2027-01-03",
-      "days": 4,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC3012BUD03011?t=W617986230001798633800000180ALCBUD17989542001798965900000195BUDALC_3ce3e41516518fdf305a83cb374a8cee_11730&search_date=13112026&expected_price_uuid=01a1d3f9-0357-8031-29dc-35127b6f972b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=roBs0EKJ4_Bkg2Y2Wy0koA&expected_price_source=share&expected_price_currency=eur&expected_price=129"
-    },
-    {
-      "origin": "ALC",
-      "destination": "PMI",
-      "price": 129,
-      "airline": "VY",
-      "departure": "2026-12-04",
-      "return": "2026-12-05",
-      "days": 1,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC0412PMI05121?t=UX17963883001796391900000060ALCPMI17965050001796544600000660PMIMADALC_bbe0af977d6005a6a9905a424d54ae63_11874&search_date=09112026&expected_price_uuid=01a1bfa9-f1a2-8031-6210-1da92ebc1943&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=0wXcKaF3gmGzntoWYDN47w&expected_price_source=share&expected_price_currency=eur&expected_price=129"
-    },
-    {
-      "origin": "ALC",
       "destination": "KUN",
       "price": 129,
       "airline": "FR",
@@ -3851,6 +3928,17 @@
       "days": 9,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC2512AMS03011?t=HV17982249001798235100000170ALCAMS17989563001798965900000160AMSALC_671555f38d1fd4604fcf4cbeddb3bb1c_11935&search_date=12112026&expected_price_uuid=01a1cfb7-0408-8030-e73e-bb3961609d8a&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=PZCp3w2gvGb3RdYQLu-T2Q&expected_price_source=share&expected_price_currency=eur&expected_price=130"
+    },
+    {
+      "origin": "ALC",
+      "destination": "PAR",
+      "price": 130,
+      "airline": "FR",
+      "departure": "2027-01-01",
+      "return": "2027-01-07",
+      "days": 6,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC0101PAR07011?t=FR17987847001798812300000460ALCBRSCDG17993034001799311200000130ORYALC_8c0d9ee14d185299f21349d25ed384a8_11796&search_date=16112026&expected_price_uuid=01a1e2db-67f2-8030-a5a7-2eea07b048ba&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=AHnQkLjA4K5adoskYmxMCg&expected_price_source=share&expected_price_currency=eur&expected_price=130"
     },
     {
       "origin": "ALC",
@@ -4041,17 +4129,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "BUD",
-      "price": 135,
-      "airline": "FR",
-      "departure": "2026-12-31",
-      "return": "2027-01-04",
-      "days": 4,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC3112BUD04011?t=FR17987286001798739400000180ALCBUD17990904001799101500000185BUDALC_1b33db4a62cc2be956ed37050f322984_12313&search_date=13112026&expected_price_uuid=01a1d664-5e7f-8030-6306-cf13b6b8510e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=9XkPE3zufZzQyYlWDwSb8Q&expected_price_source=share&expected_price_currency=eur&expected_price=135"
-    },
-    {
-      "origin": "ALC",
       "destination": "PAR",
       "price": 135,
       "airline": "VY",
@@ -4071,17 +4148,6 @@
       "days": 4,
       "transfers": 1,
       "link": "https://www.aviasales.com/search/ALC0401BUD08011?t=W617990955001799154300000980ALCMADBUD17993862001799397900000195BUDALC_076a556dd0a307ba2423f4903fb47908_12374&search_date=15112026&expected_price_uuid=01a1e087-c87c-8030-aca1-db6361895ecb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=lYVJS0bGeXiEqxa9GK18IA&expected_price_source=share&expected_price_currency=eur&expected_price=135"
-    },
-    {
-      "origin": "ALC",
-      "destination": "NUE",
-      "price": 135,
-      "airline": "FR",
-      "departure": "2027-01-12",
-      "return": "2027-01-15",
-      "days": 3,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC1201NUE15011?t=FR17997771001799840700001060ALCSTNNUE18000072001800016500000155NUEALC_b5b7e6e7140e9b62603f8ad2ca9a7ba6_12350&search_date=13112026&expected_price_uuid=01a1d703-bbe5-8030-60b2-e3b0442621fb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=vDs7CAGLusvlci9ShEcnxw&expected_price_source=share&expected_price_currency=eur&expected_price=135"
     },
     {
       "origin": "ALC",
@@ -4115,6 +4181,17 @@
       "days": 2,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC2212WAW24121?t=W617979360001797948300000205ALCWAW17981130001798211400001640WAWFCOALC_1097a083b213ceba9b27937d87080709_12611&search_date=09112026&expected_price_uuid=01a1c156-c146-8031-237e-995310305478&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=HC1r7sNqy8grYuylaOuCeA&expected_price_source=share&expected_price_currency=eur&expected_price=136"
+    },
+    {
+      "origin": "ALC",
+      "destination": "OVD",
+      "price": 136,
+      "airline": "UX",
+      "departure": "2026-12-30",
+      "return": "2027-01-02",
+      "days": 3,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC3012OVD02011?t=V717986635001798710300000780ALCMADOVD17988921001798897500000090OVDALC_251b24089e30cf76710d0c8838263d26_12406&search_date=16112026&expected_price_uuid=01a1e44c-240b-8030-66e2-a4c839be4a84&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8gXlgr_eowygO71wY1sT2Q&expected_price_source=share&expected_price_currency=eur&expected_price=136"
     },
     {
       "origin": "ALC",
@@ -4239,17 +4316,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "PAR",
-      "price": 140,
-      "airline": "VY",
-      "departure": "2026-12-11",
-      "return": "2027-01-05",
-      "days": 25,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1112PAR05011?t=VY17970177001797026100000140ALCORY17991306001799138400000130ORYALC_ad79e74b575b2bd5e94037f1f4dfe123_12916&search_date=09112026&expected_price_uuid=01a1c0f3-0308-8030-274e-37108665d399&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5PZ2W-MHLbig3RfuR9X6RA&expected_price_source=share&expected_price_currency=eur&expected_price=140"
-    },
-    {
-      "origin": "ALC",
       "destination": "LPA",
       "price": 140,
       "airline": "IB",
@@ -4280,17 +4346,6 @@
       "days": 5,
       "transfers": 1,
       "link": "https://www.aviasales.com/search/ALC0501TCI10011?t=U217991819001799223600000755ALCMADTFN17996079001799660100000810TFSLGWSTNALC_99cb2be1b9efbeb78196cb2c22fc493a_12827&search_date=11112026&expected_price_uuid=01a1ca3e-f840-8030-639a-8478fa63f4b4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=BOsbO6gyQ8sCua8lk-Lznw&expected_price_source=share&expected_price_currency=eur&expected_price=140"
-    },
-    {
-      "origin": "ALC",
-      "destination": "GVA",
-      "price": 141,
-      "airline": "W4",
-      "departure": "2026-12-31",
-      "return": "2027-01-03",
-      "days": 3,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC3112GVA03011?t=W417987550001798791300000605ALCMXPLINGVA17989575001799047200001495GVABCNALC_3fd02c4fa5230cc5dafe620fa375d65e_12849&search_date=15112026&expected_price_uuid=01a1df68-abeb-8030-e46d-a4413ba64731&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fxhTreMuMEjZV2g6nNO3pg&expected_price_source=share&expected_price_currency=eur&expected_price=141"
     },
     {
       "origin": "ALC",
@@ -4327,6 +4382,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "PMI",
+      "price": 144,
+      "airline": "UX",
+      "departure": "2026-11-17",
+      "return": "2026-11-18",
+      "days": 1,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC1711PMI18111?t=UX17949483001795001700000890ALCMADPMI17950362001795075800000660PMIMADALC_28a8430ea4baae72ecc5e4f3eb021898_13090&search_date=16112026&expected_price_uuid=01a1e334-bb98-8030-67e7-2fe2d3f5eb74&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=SJ85ePaj-ZPxPahRdHxn_w&expected_price_source=share&expected_price_currency=eur&expected_price=144"
+    },
+    {
+      "origin": "ALC",
       "destination": "MIL",
       "price": 144,
       "airline": "VY",
@@ -4357,28 +4423,6 @@
       "days": 0,
       "transfers": 0,
       "link": "https://www.aviasales.com/search/ALC2911VCE29111?t=FR17959374001795945500000135ALCTSF17959791001796023200000735VCEBCNALC_f8125ab27ac29117c8902be18332ec2b_13549&search_date=10112026&expected_price_uuid=01a1c6d3-7baa-8031-6790-9e3fc394ac1b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=wHtURX2Iq5Ls_Yqh7IEamg&expected_price_source=share&expected_price_currency=eur&expected_price=146"
-    },
-    {
-      "origin": "ALC",
-      "destination": "MIL",
-      "price": 147,
-      "airline": "VY",
-      "departure": "2026-11-17",
-      "return": "2026-11-19",
-      "days": 2,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC1711MIL19111?t=FR17949009001794940500000660ALCBIOMXP17950821001795089900000130MXPALC_0403ffed91ae7d3cfec78403f60b2adc_13412&search_date=14112026&expected_price_uuid=01a1da77-1bfc-8030-e7d5-14ae6edeaf9b&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=MBNJLd3vbJp6IiInwrCJVg&expected_price_source=share&expected_price_currency=eur&expected_price=147"
-    },
-    {
-      "origin": "ALC",
-      "destination": "TCI",
-      "price": 148,
-      "airline": "X5",
-      "departure": "2026-11-22",
-      "return": "2026-11-27",
-      "days": 5,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC2211TCI27111?t=UX17953803001795424100000790ALCMADTFN17958144001795854900000615TFNMADALC_516b4306e313e88ad5565a299e6be824_13699&search_date=09112026&expected_price_uuid=01a1c0a1-af87-8031-2731-6cb8f6ee22fb&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Sgw1JDHwilx0F6oywqlWlQ&expected_price_source=share&expected_price_currency=eur&expected_price=148"
     },
     {
       "origin": "ALC",
@@ -4426,17 +4470,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "LPA",
-      "price": 149,
-      "airline": "UX",
-      "departure": "2027-01-01",
-      "return": "2027-01-07",
-      "days": 6,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC0101LPA07011?t=UX17988363001798927800001585ALCMADLPA17993586001799397300000585LPAMADALC_6e922833d25399e068c89a9f54c0820d_13640&search_date=12112026&expected_price_uuid=01a1d179-da8c-8030-6c7e-0ff6a6143517&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=hiXf_9weMrIzBy6Y0_vX5g&expected_price_source=share&expected_price_currency=eur&expected_price=149"
-    },
-    {
-      "origin": "ALC",
       "destination": "DUS",
       "price": 149,
       "airline": "UX",
@@ -4481,17 +4514,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "FNC",
-      "price": 150,
-      "airline": "FR",
-      "departure": "2027-01-27",
-      "return": "2027-03-06",
-      "days": 38,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC2701FNC06031?t=FR18010740001801140300001165ALCLISFNC18043224001804378800000880FNCLISALC_382575bb2df937bca9eafaba8019f424_13746&search_date=15112026&expected_price_uuid=01a1decb-ea56-8030-2882-0ea005101f83&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=HgvWMmiUhihrZ-dYZkD8KQ&expected_price_source=share&expected_price_currency=eur&expected_price=150"
-    },
-    {
-      "origin": "ALC",
       "destination": "MIL",
       "price": 151,
       "airline": "VY",
@@ -4514,6 +4536,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "FNC",
+      "price": 151,
+      "airline": "FR",
+      "departure": "2027-01-27",
+      "return": "2027-03-06",
+      "days": 38,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC2701FNC06031?t=FR18010740001801140300001165ALCLISFNC18043224001804378800000880FNCLISALC_382575bb2df937bca9eafaba8019f424_13692&search_date=16112026&expected_price_uuid=01a1e3e8-c194-8030-22bb-f35bc0b9ce95&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=HgvWMmiUhihrZ-dYZkD8KQ&expected_price_source=share&expected_price_currency=eur&expected_price=151"
+    },
+    {
+      "origin": "ALC",
       "destination": "MIL",
       "price": 152,
       "airline": "W4",
@@ -4526,6 +4559,17 @@
     {
       "origin": "ALC",
       "destination": "PMI",
+      "price": 152,
+      "airline": "UX",
+      "departure": "2026-11-22",
+      "return": "2026-11-23",
+      "days": 1,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC2211PMI23111?t=UX17953803001795427100000780ALCMADPMI17954601001795463700000060PMIALC_0aa10cc0aade93ef39232356b9b4639b_13847&search_date=16112026&expected_price_uuid=01a1e335-3b0b-8030-a3f7-d67ae09962a2&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rjLYJuiDIpYVl27mOQyAww&expected_price_source=share&expected_price_currency=eur&expected_price=152"
+    },
+    {
+      "origin": "ALC",
+      "destination": "PMI",
       "price": 153,
       "airline": "UX",
       "departure": "2026-11-16",
@@ -4533,17 +4577,6 @@
       "days": 1,
       "transfers": 1,
       "link": "https://www.aviasales.com/search/ALC1611PMI17111?t=UX17948619001794908700000780ALCMADPMI17949417001794945300000060PMIALC_81ae8a22ddcfe122b865346e663cdb27_14043&search_date=12112026&expected_price_uuid=01a1d1d8-8f61-8031-2095-bd0f588e339a&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rjLYJuiDIpYVl27mOQyAww&expected_price_source=share&expected_price_currency=eur&expected_price=153"
-    },
-    {
-      "origin": "ALC",
-      "destination": "PRG",
-      "price": 154,
-      "airline": "W4",
-      "departure": "2027-01-22",
-      "return": "2027-01-24",
-      "days": 2,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC2201PRG24011?t=W918006327001800709800001285ALCMXPPRG18008322001800907800001260PRGLGWLTNALC_b245f9ccbd6aae2e6852abfa562bb89f_13935&search_date=13112026&expected_price_uuid=01a1d4cd-7c59-8031-6fc3-7d88432234ca&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=avaNML3o_pnaHm3l1GK5wQ&expected_price_source=share&expected_price_currency=eur&expected_price=154"
     },
     {
       "origin": "ALC",
@@ -4602,6 +4635,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "GDN",
+      "price": 160,
+      "airline": "W4",
+      "departure": "2026-11-24",
+      "return": "2026-12-04",
+      "days": 10,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC2411GDN04121?t=FR17955357001795653900001970ALCFCOGDN17964159001796429100000220GDNALC_77d7e2bba01caa315d3641aea67fe0cb_14581&search_date=16112026&expected_price_uuid=01a1e43c-6fca-8031-2dc2-5f96cb323cf9&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=JAE3cN3uHNTW-1GGVgYmaw&expected_price_source=share&expected_price_currency=eur&expected_price=160"
+    },
+    {
+      "origin": "ALC",
       "destination": "BUD",
       "price": 160,
       "airline": "UX",
@@ -4657,8 +4701,19 @@
     },
     {
       "origin": "ALC",
+      "destination": "GVA",
+      "price": 164,
+      "airline": "UX",
+      "departure": "2026-11-16",
+      "return": "2026-11-20",
+      "days": 4,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC1611GVA20111?t=U217948619001794909600000795ALCMADGVA17951808001795188300000125GVAALC_933cc6ea195817cc3c8bdd98346e5456_14880&search_date=16112026&expected_price_uuid=01a1e335-a5a6-8030-688c-a6e8c8d720c9&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=V66cJjJX9QQm26q-JUtKKg&expected_price_source=share&expected_price_currency=eur&expected_price=164"
+    },
+    {
+      "origin": "ALC",
       "destination": "REK",
-      "price": 163,
+      "price": 164,
       "airline": "FR",
       "departure": "2027-01-18",
       "return": "2027-01-23",
@@ -4676,6 +4731,17 @@
       "days": 15,
       "transfers": 1,
       "link": "https://www.aviasales.com/search/ALC0401TBS19011?t=PC17990655001799116800000675ALCSAWTBS18003342001800387900001075TBSSAWBHXALC_72b652d7750cb8be2488e08d89860674_14965&search_date=15112026&expected_price_uuid=01a1e0df-9bf2-8030-a7eb-55483bc2b996&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=TV0Zhcldw1a-4ZKEKHYhwA&expected_price_source=share&expected_price_currency=eur&expected_price=164"
+    },
+    {
+      "origin": "ALC",
+      "destination": "WAW",
+      "price": 165,
+      "airline": "W4",
+      "departure": "2026-11-17",
+      "return": "2026-11-20",
+      "days": 3,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC1711WAW20111?t=FR17949081001794989700001360ALCVCEWAW17951787001795191300000210WAWALC_e56cbdfd880115a1b1dbcb6157718a31_15319&search_date=09112026&expected_price_uuid=01a1c10e-7490-8030-a21d-1f7c5503e709&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=camu8iG20ngefgVRlFZvVw&expected_price_source=share&expected_price_currency=eur&expected_price=165"
     },
     {
       "origin": "ALC",
@@ -4723,17 +4789,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "OSL",
-      "price": 172,
-      "airline": "W4",
-      "departure": "2026-11-16",
-      "return": "2026-11-28",
-      "days": 12,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC1611OSL28111?t=FR17948445001794908100001060ALCFCOOSL17958603001795873500000220TRFALC_fcc5d1b35fe0032225f8a7ce3b88f5b8_15970&search_date=10112026&expected_price_uuid=01a1c709-86a0-8030-a308-384935401310&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=eWZG4OrcRlP1MTc2ACSRPw&expected_price_source=share&expected_price_currency=eur&expected_price=172"
-    },
-    {
-      "origin": "ALC",
       "destination": "REK",
       "price": 172,
       "airline": "W9",
@@ -4756,17 +4811,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "REK",
-      "price": 174,
-      "airline": "FR",
-      "departure": "2027-01-15",
-      "return": "2027-01-20",
-      "days": 5,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC1501REK20011?t=FR18000303001800093000001105ALCNCLKEF18004467001800550500001670KEFLTNLGWALC_2387bf0154ee7516057c2eda76df77ac_15863&search_date=16112026&expected_price_uuid=01a1e1cf-a958-8040-2fb4-2b07045406ba&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6AW1iieVBKiaDlfJffp3zg&expected_price_source=share&expected_price_currency=eur&expected_price=174"
-    },
-    {
-      "origin": "ALC",
       "destination": "VIE",
       "price": 174,
       "airline": "VY",
@@ -4775,6 +4819,17 @@
       "days": 3,
       "transfers": 1,
       "link": "https://www.aviasales.com/search/ALC0501VIE08011?t=VY17991321001799166600000575ALCBCNVIE17993907001799447100000940VIETSFALC_f955aecb13ba4b9ff40addea0b37071e_15876&search_date=14112026&expected_price_uuid=01a1da7d-91a4-8030-67f3-57f4ab348264&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=aWx_x0QXyzxiWj-Q9zoCAQ&expected_price_source=share&expected_price_currency=eur&expected_price=174"
+    },
+    {
+      "origin": "ALC",
+      "destination": "REK",
+      "price": 174,
+      "airline": "FR",
+      "departure": "2027-01-15",
+      "return": "2027-01-20",
+      "days": 5,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC1501REK20011?t=FR18000303001800093000001105ALCNCLKEF18004467001800550500001670KEFLTNLGWALC_2387bf0154ee7516057c2eda76df77ac_15863&search_date=16112026&expected_price_uuid=01a1e1cf-a958-8040-2fb4-2b07045406ba&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6AW1iieVBKiaDlfJffp3zg&expected_price_source=share&expected_price_currency=eur&expected_price=174"
     },
     {
       "origin": "ALC",
@@ -4808,17 +4863,6 @@
       "days": 10,
       "transfers": 1,
       "link": "https://www.aviasales.com/search/ALC2601DUS05021?t=UX18009963001801042500000770ALCMADDUS18018429001801852200000155NRNALC_c13baf39d61530a7c35ecd4fa98a15b2_16340&search_date=11112026&expected_price_uuid=01a1ccd0-5f73-8030-23d3-7d82231748eb&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=orN4X1XN4luYqkAXQAs2mg&expected_price_source=share&expected_price_currency=eur&expected_price=177"
-    },
-    {
-      "origin": "ALC",
-      "destination": "OSL",
-      "price": 178,
-      "airline": "U2",
-      "departure": "2026-11-19",
-      "return": "2026-11-25",
-      "days": 6,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC1911OSL25111?t=DY17950830001795121400000640ALCLTNLGWOSL17955921001795606200000235OSLALC_27f6b958fc00f1016903077d4114d952_16419&search_date=09112026&expected_price_uuid=01a1c0a5-e0e0-8030-252f-1f145e13cb31&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=GzXSTIGafKhb-iSCJ7u4Yw&expected_price_source=share&expected_price_currency=eur&expected_price=178"
     },
     {
       "origin": "ALC",
@@ -4866,6 +4910,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "WAW",
+      "price": 184,
+      "airline": "V7",
+      "departure": "2026-11-16",
+      "return": "2026-11-19",
+      "days": 3,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC1611WAW19111?t=W617948652001794955800001510ALCBIOWAW17950680001795164300001605WAWBTSALC_bc86a6a5d72e775e0130775a4714600c_16893&search_date=11112026&expected_price_uuid=01a1ca8b-6ab7-8030-a912-429bbe2602e5&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=AOtVBkqfcr8HjJdLtB7uqg&expected_price_source=share&expected_price_currency=eur&expected_price=184"
+    },
+    {
+      "origin": "ALC",
       "destination": "REK",
       "price": 184,
       "airline": "FR",
@@ -4874,6 +4929,17 @@
       "days": 5,
       "transfers": 1,
       "link": "https://www.aviasales.com/search/ALC1401REK19011?t=U217999655001800003300000690ALCLPLKEF18003561001800387900000470KEFBHXALC_d284572def28a38c1675ccaa477a8dc2_16804&search_date=16112026&expected_price_uuid=01a1e1da-6003-8040-2d3c-5f4e21d76db5&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ct8PQMlX5V-OtP8EoQXbhg&expected_price_source=share&expected_price_currency=eur&expected_price=184"
+    },
+    {
+      "origin": "ALC",
+      "destination": "OSL",
+      "price": 186,
+      "airline": "MW",
+      "departure": "2026-11-16",
+      "return": "2026-11-28",
+      "days": 12,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC1611OSL28111?t=DY17948622001794908100000765ALCFCOOSL17958513001795865400000235OSLALC_ba6b725dd17c5919c33a965d5de1fa7c_17270&search_date=10112026&expected_price_uuid=01a1c709-86a0-8030-a308-384935401310&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fA1EGDrC2j8y2gepnUC_Ag&expected_price_source=share&expected_price_currency=eur&expected_price=186"
     },
     {
       "origin": "ALC",
@@ -5042,6 +5108,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "ATH",
+      "price": 202,
+      "airline": "W6",
+      "departure": "2027-01-01",
+      "return": "2027-01-04",
+      "days": 3,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC0101ATH04011?t=W617987958001798845000000760ALCBTSATH17991066001799225100002035ATHBTSALC_1b04331c021a26a4666fd5107f5b3e22_18426&search_date=15112026&expected_price_uuid=01a1dc84-8749-8030-252d-980bb4a31664&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ujs03SpcyNJ99lDTq4MHwA&expected_price_source=share&expected_price_currency=eur&expected_price=202"
+    },
+    {
+      "origin": "ALC",
       "destination": "IST",
       "price": 203,
       "airline": "U2",
@@ -5061,6 +5138,17 @@
       "days": 6,
       "transfers": 2,
       "link": "https://www.aviasales.com/search/ALC2811BAK04121?t=W617958585001795992600002055ALCVCEBUDGYD17964282001796502900001425GYDBUDNCLALC_8ed1f247df7c5e122918caeeef220750_18608&search_date=14112026&expected_price_uuid=01a1d9ee-6be8-8031-6ff1-a036250cda51&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VFOcDlbJPiqkYTA0GauFuQ&expected_price_source=share&expected_price_currency=eur&expected_price=204"
+    },
+    {
+      "origin": "ALC",
+      "destination": "IST",
+      "price": 205,
+      "airline": "PC",
+      "departure": "2026-11-27",
+      "return": "2026-12-12",
+      "days": 15,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC2711IST12121?t=PC17957823001795803000000225ALCSAW17971170001797151500000695ISTBUDALC_98156c509fa02583eaed821aab1bb9d9_18667&search_date=16112026&expected_price_uuid=01a1e3c0-bde9-8031-62fb-218223d810b4&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xxnaliBoOVOmrQLX0kzmVA&expected_price_source=share&expected_price_currency=eur&expected_price=205"
     },
     {
       "origin": "RMU",
@@ -5196,6 +5284,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "CMN",
+      "price": 229,
+      "airline": "AT",
+      "departure": "2027-01-06",
+      "return": "2027-01-09",
+      "days": 3,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC0601CMN09011?t=TP17992374001799240100000105ALCCMN17994936001799576700001325CMNLISORYALC_71b15d550dcab87ec6cd8fb4a6ed2b74_20814&search_date=16112026&expected_price_uuid=01a1e470-63ed-8030-e82b-0a42dff58d61&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=xMqABLX43wcQOYaf2mJM6Q&expected_price_source=share&expected_price_currency=eur&expected_price=229"
+    },
+    {
+      "origin": "ALC",
       "destination": "VIE",
       "price": 230,
       "airline": "FR",
@@ -5240,17 +5339,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "BTS",
-      "price": 243,
-      "airline": "W6",
-      "departure": "2026-11-16",
-      "return": "2026-11-16",
-      "days": 0,
-      "transfers": 0,
-      "link": "https://www.aviasales.com/search/ALC1611BTS16111?t=FR17948214001794832200000180ALCBTS17948457001794905400000995BTSAGPVCEALC_f1e5fb4a3362e6739aecb053877938cd_22235&search_date=12112026&expected_price_uuid=01a1d170-6aa3-8031-2acf-1f31fc295d2d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=OT_LqdztLQmAv1vQgiOoiA&expected_price_source=share&expected_price_currency=eur&expected_price=243"
-    },
-    {
-      "origin": "ALC",
       "destination": "BGO",
       "price": 243,
       "airline": "FR",
@@ -5292,6 +5380,17 @@
       "days": 2,
       "transfers": 1,
       "link": "https://www.aviasales.com/search/ALC0701HEL09011?t=KL17993175001799367600000775ALCAMSHEL17994768001799510700000625HELAMSALC_1aab101f37072bc0d1353d75f7163a63_23350&search_date=11112026&expected_price_uuid=01a1c942-172e-8030-eae8-3543eac148b0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_r4_SIZ6r9sMlxJYKuE1og&expected_price_source=share&expected_price_currency=eur&expected_price=253"
+    },
+    {
+      "origin": "ALC",
+      "destination": "AYT",
+      "price": 253,
+      "airline": "U2",
+      "departure": "2027-01-09",
+      "return": "2027-01-19",
+      "days": 10,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC0901AYT19011?t=U217995284001799591700000935ALCSENLTNAYT18003444001800437100001665AYTSAWBSLALC_74dc04a2ba687cebee01baaaa9c32448_23002&search_date=16112026&expected_price_uuid=01a1e3a8-e198-8030-6750-ba6b5d09a5e2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=oPzcYGKxPG2OkDyYMCClJQ&expected_price_source=share&expected_price_currency=eur&expected_price=253"
     },
     {
       "origin": "ALC",
@@ -5448,17 +5547,6 @@
       "link": "https://www.aviasales.com/search/ALC0201IST06011?t=PC17988927001798913400000225ALCSAW17992293001799269800000795ISTBUDKRKALC_32d70e85eb6871eca0a34e79ac92f6b8_27194&search_date=15112026&expected_price_uuid=01a1e0eb-dba7-8031-2989-0126e48fd4d3&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kpuBVDMOSW0kcg8kp3aO8w&expected_price_source=share&expected_price_currency=eur&expected_price=298"
     },
     {
-      "origin": "ALC",
-      "destination": "EVN",
-      "price": 301,
-      "airline": "W6",
-      "departure": "2026-11-16",
-      "return": "2026-11-30",
-      "days": 14,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC1611EVN30111?t=W417948214001795011000002980ALCBUDEVN17960463001796137800001705EVNFCOALC_cc87f3af5892ec35a124a7bcd971de9e_27456&search_date=14112026&expected_price_uuid=01a1dbc5-48a1-8030-e773-89c49fca1694&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SVRPnSC1s1ONfznxxsyrNg&expected_price_source=share&expected_price_currency=eur&expected_price=301"
-    },
-    {
       "origin": "RMU",
       "destination": "LPA",
       "price": 302,
@@ -5523,17 +5611,6 @@
       "days": 8,
       "transfers": 1,
       "link": "https://www.aviasales.com/search/ALC1611EVN24111?t=W617948604001794939900001145ALCOTPEVN17955036001795596300001725EVNBTSALC_5161c83d5d0d0930504a6d4225c714d7_32164&search_date=12112026&expected_price_uuid=01a1d029-294a-8030-20d8-772472fdf0ee&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=U2A3CVABR-zK5EiS4k1CaA&expected_price_source=share&expected_price_currency=eur&expected_price=351"
-    },
-    {
-      "origin": "ALC",
-      "destination": "BUS",
-      "price": 356,
-      "airline": "W4",
-      "departure": "2026-11-27",
-      "return": "2026-12-06",
-      "days": 9,
-      "transfers": 3,
-      "link": "https://www.aviasales.com/search/ALC2711BUS06121?t=PC17957943001795878600001225ALCMXPBGYTIASAWBUS17965752001796637300001215BUSSAWSTNLTNALC_38a3047ab803f6ee4257000c3c55b2ed_32794&search_date=09112026&expected_price_uuid=01a1bf3b-3d93-8030-261e-70232d8d6a51&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=M41PRLSl59GOl_-RNJqpTA&expected_price_source=share&expected_price_currency=eur&expected_price=356"
     },
     {
       "origin": "ALC",
@@ -5659,17 +5736,6 @@
     {
       "origin": "ALC",
       "destination": "MOW",
-      "price": 388,
-      "airline": "W6",
-      "departure": "2026-11-18",
-      "return": "2026-11-25",
-      "days": 7,
-      "transfers": 2,
-      "link": "https://www.aviasales.com/search/ALC1811MOW25111?t=W617949942001795163400002700ALCBTSEVNVKO17956440001795769100002205VKOEVNBTSALC_7a7bb285e637b91f590c5b54d0edc738_35674&search_date=09112026&expected_price_uuid=01a1bef1-94ac-8031-6881-384437a5b3cb&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7F6kQYBXrd2phNrspSttZQ&expected_price_source=share&expected_price_currency=eur&expected_price=388"
-    },
-    {
-      "origin": "ALC",
-      "destination": "MOW",
       "price": 391,
       "airline": "PC",
       "departure": "2027-01-20",
@@ -5791,39 +5857,6 @@
     {
       "origin": "ALC",
       "destination": "MOW",
-      "price": 407,
-      "airline": "JU",
-      "departure": "2026-11-23",
-      "return": "2026-12-09",
-      "days": 16,
-      "transfers": 2,
-      "link": "https://www.aviasales.com/search/ALC2311MOW09121?t=2S17954679001795564200001485ALCBEGISTSVO17967774001796815200000750SVOISTSAWALC_22a230f5b4ac47aee3b1e316d93e8c52_37515&search_date=09112026&expected_price_uuid=01a1bfee-79dc-8030-6a97-fed158c28295&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=32YZefMCj9usKwr0TuI99Q&expected_price_source=share&expected_price_currency=eur&expected_price=407"
-    },
-    {
-      "origin": "ALC",
-      "destination": "MOW",
-      "price": 410,
-      "airline": "PC",
-      "departure": "2026-11-24",
-      "return": "2026-12-09",
-      "days": 15,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC2411MOW09121?t=DP17955231001795643100001880ALCSAWISTVKO17967774001796815200000750SVOISTSAWALC_60301559b5e07d8495ff5892d7369bc1_37742&search_date=09112026&expected_price_uuid=01a1bfee-285f-8030-6f15-fd3536e02432&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=YPxseHDom_zxup4xU8QdTQ&expected_price_source=share&expected_price_currency=eur&expected_price=410"
-    },
-    {
-      "origin": "ALC",
-      "destination": "MOW",
-      "price": 410,
-      "airline": "PC",
-      "departure": "2026-11-24",
-      "return": "2026-12-07",
-      "days": 13,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC2411MOW07121?t=DP17955231001795643100001880ALCSAWISTVKO17966049001796642400000745SVOISTSAWALC_28103c1546d54368310891871ddfe779_37760&search_date=09112026&expected_price_uuid=01a1bff0-d97b-8030-a0e4-d0ef01b3a9d8&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=16K2T-bRHMvbbL-iFBSeVQ&expected_price_source=share&expected_price_currency=eur&expected_price=410"
-    },
-    {
-      "origin": "ALC",
-      "destination": "MOW",
       "price": 412,
       "airline": "PC",
       "departure": "2026-11-29",
@@ -5845,17 +5878,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "BER",
-      "price": 415,
-      "airline": "W6",
-      "departure": "2026-11-24",
-      "return": "2026-11-24",
-      "days": 0,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC2411BER24111?t=W617955168001795542900000435ALCWAWBER17955528001795591200000640BERBCNALC_61425b8008b4ceb87459d7cf9814d9e2_38576&search_date=10112026&expected_price_uuid=01a1c6ed-aa32-8030-67cf-4637321634a6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ET2HBOJl5nmo3NWFNGgexw&expected_price_source=share&expected_price_currency=eur&expected_price=415"
-    },
-    {
-      "origin": "ALC",
       "destination": "MOW",
       "price": 416,
       "airline": "JU",
@@ -5864,17 +5886,6 @@
       "days": 21,
       "transfers": 3,
       "link": "https://www.aviasales.com/search/ALC2011MOW11121?t=PC17951682001795283400001800ALCBEGLCALWNVKO17970099001797074400001195VKOSAWALC_d654e34be75b1b7e2d7da1aefcc4208a_38318&search_date=11112026&expected_price_uuid=01a1cc88-6a2c-8030-29fd-098c0df90d35&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NNBoXJiWmjP7TVNiFcV2hw&expected_price_source=share&expected_price_currency=eur&expected_price=416"
-    },
-    {
-      "origin": "ALC",
-      "destination": "MOW",
-      "price": 421,
-      "airline": "W6",
-      "departure": "2026-11-18",
-      "return": "2026-12-06",
-      "days": 18,
-      "transfers": 2,
-      "link": "https://www.aviasales.com/search/ALC1811MOW06121?t=PC17949942001795163400002700ALCBTSEVNVKO17965182001796556000000750SVOISTSAWALC_be5c1a94158ae257be6eb7b57958cd06_38891&search_date=09112026&expected_price_uuid=01a1bfc4-3aef-8030-e7f7-c01ea6a55255&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=JN1yLO0uHZx-X8HMkLP2MA&expected_price_source=share&expected_price_currency=eur&expected_price=421"
     },
     {
       "origin": "ALC",
@@ -5978,17 +5989,6 @@
     {
       "origin": "ALC",
       "destination": "MOW",
-      "price": 434,
-      "airline": "W6",
-      "departure": "2026-11-18",
-      "return": "2026-12-07",
-      "days": 19,
-      "transfers": 2,
-      "link": "https://www.aviasales.com/search/ALC1811MOW07121?t=PC17949942001795139400002300ALCBTSEVNVKO17966049001796642400000745SVOISTSAWALC_5bbbed3adc6340832cfa986d8a515575_40023&search_date=09112026&expected_price_uuid=01a1bff0-309f-8030-2198-828c51a8e9df&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=kXYX5amUc7JQq3tXN4R8LQ&expected_price_source=share&expected_price_currency=eur&expected_price=434"
-    },
-    {
-      "origin": "ALC",
-      "destination": "MOW",
       "price": 437,
       "airline": "VY",
       "departure": "2026-11-29",
@@ -6040,28 +6040,6 @@
       "days": 10,
       "transfers": 2,
       "link": "https://www.aviasales.com/search/ALC1711MOW27111?t=W417949309001795053000001915ALCFCOEVNVKO17957406001795778400000750SVOISTSAWALC_d020f65a272b031c52855f8b941673f3_41105&search_date=09112026&expected_price_uuid=01a1c21a-2784-8030-e766-bff8dedf0569&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8Qtv3kLxuAFL1TRjxFQt8w&expected_price_source=share&expected_price_currency=eur&expected_price=444"
-    },
-    {
-      "origin": "ALC",
-      "destination": "MOW",
-      "price": 445,
-      "airline": "W6",
-      "departure": "2026-11-16",
-      "return": "2026-11-27",
-      "days": 11,
-      "transfers": 2,
-      "link": "https://www.aviasales.com/search/ALC1611MOW27111?t=PC17948214001794969300002345ALCBTSEVNSVO17957406001795778400000750SVOISTSAWALC_70612e2703049bc57cdf7b97ce62539a_41208&search_date=09112026&expected_price_uuid=01a1c217-0e1e-8030-2464-f2bddbac8a81&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Q55ouVOBIAmEUD6gJCWmgA&expected_price_source=share&expected_price_currency=eur&expected_price=445"
-    },
-    {
-      "origin": "ALC",
-      "destination": "MOW",
-      "price": 450,
-      "airline": "AT",
-      "departure": "2027-01-01",
-      "return": "2027-01-22",
-      "days": 21,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC0101MOW22011?t=AT17988054001798849500000615ALCCMNSVO18005817001800616200000695SVOCMNALC_7e9ded0f36ac8ec7438abc31ead23de1_40825&search_date=13112026&expected_price_uuid=01a1d50f-c7cd-8030-24a1-7bf2ab65da64&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=y246cszdMf8tI_KlUyuenw&expected_price_source=share&expected_price_currency=eur&expected_price=450"
     },
     {
       "origin": "ALC",
@@ -6143,17 +6121,6 @@
     {
       "origin": "ALC",
       "destination": "MOW",
-      "price": 459,
-      "airline": "PC",
-      "departure": "2026-11-19",
-      "return": "2026-12-07",
-      "days": 18,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC1911MOW07121?t=2S17950911001795218600002005ALCSAWISTSVO17966049001796642400000745SVOISTSAWALC_072b1b09762fe4e40f6ccaf38b677faf_42300&search_date=09112026&expected_price_uuid=01a1bfef-c795-8030-2f11-9a7fe482fb04&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=MNcIvUTon_94eL3RMQrAcQ&expected_price_source=share&expected_price_currency=eur&expected_price=459"
-    },
-    {
-      "origin": "ALC",
-      "destination": "MOW",
       "price": 460,
       "airline": "PC",
       "departure": "2026-11-23",
@@ -6199,17 +6166,6 @@
       "origin": "ALC",
       "destination": "MOW",
       "price": 466,
-      "airline": "W6",
-      "departure": "2026-11-22",
-      "return": "2026-12-05",
-      "days": 13,
-      "transfers": 2,
-      "link": "https://www.aviasales.com/search/ALC2211MOW05121?t=PC17953398001795487700002345ALCBUDEVNSVO17964318001796469600000750SVOISTSAWALC_f3a24b2f800a83b8e26c9f13df65b920_43065&search_date=09112026&expected_price_uuid=01a1c085-75f1-8030-6f5b-a1999be9772d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=lqJ32aRDGIPJxd9o-DidLQ&expected_price_source=share&expected_price_currency=eur&expected_price=466"
-    },
-    {
-      "origin": "ALC",
-      "destination": "MOW",
-      "price": 466,
       "airline": "PC",
       "departure": "2026-11-24",
       "return": "2026-12-08",
@@ -6227,6 +6183,17 @@
       "days": 15,
       "transfers": 1,
       "link": "https://www.aviasales.com/search/ALC0201MOW17011?t=PC17988927001798941900000700ALCSAWVKO18002067001800271200001195VKOSAWALC_c7c790e0e5695294d9f4374e4c02c4ce_42869&search_date=13112026&expected_price_uuid=01a1d72c-168f-8031-676d-c3b8436547a8&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SbdsjZGROdPpKLxI7usUvQ&expected_price_source=share&expected_price_currency=eur&expected_price=470"
+    },
+    {
+      "origin": "ALC",
+      "destination": "MOW",
+      "price": 473,
+      "airline": "AT",
+      "departure": "2027-01-01",
+      "return": "2027-01-22",
+      "days": 21,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC0101MOW22011?t=AT17988054001798849500000615ALCCMNSVO18005817001800616200000695SVOCMNALC_7e9ded0f36ac8ec7438abc31ead23de1_42957&search_date=16112026&expected_price_uuid=01a1e3d3-cb85-8030-256f-ce8ea18d64b1&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=y246cszdMf8tI_KlUyuenw&expected_price_source=share&expected_price_currency=eur&expected_price=473"
     },
     {
       "origin": "ALC",
@@ -6318,6 +6285,17 @@
     },
     {
       "origin": "ALC",
+      "destination": "EVN",
+      "price": 484,
+      "airline": "W4",
+      "departure": "2026-11-16",
+      "return": "2026-11-30",
+      "days": 14,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC1611EVN30111?t=W417948604001794939900001145ALCOTPEVN17960463001796137800001705EVNFCOALC_a44483a2301f0d09b84a3e252c157b64_44193&search_date=14112026&expected_price_uuid=01a1dbc5-48a1-8030-e773-89c49fca1694&static_fare_key=TY%7CP1%7CH0%7CL1_1_10%7CCH0%7CR0%7CTBC1&itinerary_key=oZrsgjoKKC1Uiiiuy_aDLA&expected_price_source=share&expected_price_currency=eur&expected_price=484"
+    },
+    {
+      "origin": "ALC",
       "destination": "LED",
       "price": 486,
       "airline": "PC",
@@ -6341,13 +6319,13 @@
     {
       "origin": "ALC",
       "destination": "MOW",
-      "price": 487,
-      "airline": "PC",
-      "departure": "2026-11-23",
-      "return": "2026-11-24",
-      "days": 1,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC2311MOW24111?t=SU17954367001795503000000985ALCSAWISTSVO17955411001795605600001195VKOSAWALC_6ce842cedbcc3babf4759716fbfac92c_44590&search_date=12112026&expected_price_uuid=01a1d1e3-2faa-8031-645f-3126591b7bb6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=X-AWwrAMwVT7bV4me_dKvA&expected_price_source=share&expected_price_currency=eur&expected_price=487"
+      "price": 489,
+      "airline": "W6",
+      "departure": "2026-11-22",
+      "return": "2026-11-27",
+      "days": 5,
+      "transfers": 2,
+      "link": "https://www.aviasales.com/search/ALC2211MOW27111?t=SU17953398001795501500002575ALCBUDEVNVKO17957385001795778400000785SVOISTSAWALC_ea658d14ecf887fc9e0741b3a32e53ce_44609&search_date=14112026&expected_price_uuid=01a1db75-3415-8030-6e9b-bf798a56f927&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=BtLic9tNZ8XbpzLv1n7xXA&expected_price_source=share&expected_price_currency=eur&expected_price=489"
     },
     {
       "origin": "ALC",
@@ -6396,6 +6374,17 @@
     {
       "origin": "ALC",
       "destination": "MOW",
+      "price": 498,
+      "airline": "W4",
+      "departure": "2026-11-16",
+      "return": "2026-11-27",
+      "days": 11,
+      "transfers": 2,
+      "link": "https://www.aviasales.com/search/ALC1611MOW27111?t=PC17948604001794990600002050ALCOTPEVNVKO17957406001795778400000750SVOISTSAWALC_655b370ac9475288b0a49163011b4c58_46106&search_date=09112026&expected_price_uuid=01a1c217-0e1e-8030-2464-f2bddbac8a81&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=dE7JDqSjXE8MNz7cfigUqg&expected_price_source=share&expected_price_currency=eur&expected_price=498"
+    },
+    {
+      "origin": "ALC",
+      "destination": "MOW",
       "price": 500,
       "airline": "VY",
       "departure": "2027-01-02",
@@ -6403,6 +6392,17 @@
       "days": 9,
       "transfers": 2,
       "link": "https://www.aviasales.com/search/ALC0201MOW11011?t=DP17988753001799028300002430ALCBIOSAWVKO17996508001799711940001139VKOISTSAWCRLBRUALC_f27e98a093de97aab4b961f09440e498_45670&search_date=15112026&expected_price_uuid=01a1de91-d696-8030-e4f0-ceec2fd8aab0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=6UduQMnDvTbDFeNP2ejDOg&expected_price_source=share&expected_price_currency=eur&expected_price=500"
+    },
+    {
+      "origin": "ALC",
+      "destination": "MOW",
+      "price": 501,
+      "airline": "W6",
+      "departure": "2026-11-22",
+      "return": "2026-11-28",
+      "days": 6,
+      "transfers": 2,
+      "link": "https://www.aviasales.com/search/ALC2211MOW28111?t=2S17953398001795509000002700ALCBUDEVNVKO17958270001795941900002035SVOISTSAWBUDALC_b768ec0e27f926afa73b01fb2974021d_45538&search_date=16112026&expected_price_uuid=01a1e383-e76f-8030-2726-047d46ca60c8&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7duJYV0HV1DGibgeEtA36w&expected_price_source=share&expected_price_currency=eur&expected_price=501"
     },
     {
       "origin": "ALC",
@@ -6425,6 +6425,17 @@
       "days": 21,
       "transfers": 1,
       "link": "https://www.aviasales.com/search/ALC1711MOW08121?t=VF17949183001795053000002125ALCSAWVKO17967234001796815200001650VKOEVNSAWALC_e6c6976415cb88b9b87fdac14ab5fd8b_46985&search_date=14112026&expected_price_uuid=01a1db7c-036a-8030-2ddc-a095a6b3f179&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=47jULsb2_xmmXEFwDsE3uw&expected_price_source=share&expected_price_currency=eur&expected_price=515"
+    },
+    {
+      "origin": "ALC",
+      "destination": "LED",
+      "price": 515,
+      "airline": "PC",
+      "departure": "2026-11-18",
+      "return": "2026-11-25",
+      "days": 7,
+      "transfers": 2,
+      "link": "https://www.aviasales.com/search/ALC1811LED25111?t=SU17950047001795084800001215ALCSAWISTSVOLED17956293001795692000001165LEDSVOISTSAWALC_3c73de134c7ff2324a98f254b5f35ab6_47682&search_date=09112026&expected_price_uuid=01a1c114-2907-8030-a90b-fc0b85930cf0&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_73fe-CKegE7jG6K9S_4fA&expected_price_source=share&expected_price_currency=eur&expected_price=515"
     },
     {
       "origin": "ALC",
@@ -6461,17 +6472,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "MOW",
-      "price": 533,
-      "airline": "V7",
-      "departure": "2026-11-30",
-      "return": "2027-01-01",
-      "days": 32,
-      "transfers": 2,
-      "link": "https://www.aviasales.com/search/ALC3011MOW01011?t=PC17960748001796177100001585ALCBIOSAWVKO17987730001798848900001385VKOSAWBIOALC_0a51e3cdcc65a7318dc1d8d9e060def4_49278&search_date=09112026&expected_price_uuid=01a1c09a-9bbe-8030-625d-e941512d3706&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=hbEFQ3Oi1URzipLqPYCyzQ&expected_price_source=share&expected_price_currency=eur&expected_price=533"
-    },
-    {
-      "origin": "ALC",
       "destination": "LED",
       "price": 538,
       "airline": "JU",
@@ -6502,17 +6502,6 @@
       "days": 10,
       "transfers": 3,
       "link": "https://www.aviasales.com/search/ALC2911LED09121?t=AT17959551001796053500001520ALCSAWESBVKOSVOLED17968035001796908200001865LEDCMNLGWSTNALC_27d72b6b87ce926ee82f6e09534d1bb0_48875&search_date=13112026&expected_price_uuid=01a1d529-10e2-8031-6691-bdd95cde85af&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KFDrrUMmfZKZIClrFmfplA&expected_price_source=share&expected_price_currency=eur&expected_price=539"
-    },
-    {
-      "origin": "ALC",
-      "destination": "LED",
-      "price": 541,
-      "airline": "PC",
-      "departure": "2026-11-17",
-      "return": "2026-12-17",
-      "days": 30,
-      "transfers": 2,
-      "link": "https://www.aviasales.com/search/ALC1711LED17121?t=SU17949183001795030200001745ALCSAWISTSVOVKOLED17975217001797589200001245LEDSAWMANALC_07026d96f93c2b128396908235fe1d2d_49921&search_date=09112026&expected_price_uuid=01a1bfda-78fc-8031-63bf-db8762bbc839&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=N_qUOxWCB12EUim5Od8Z4w&expected_price_source=share&expected_price_currency=eur&expected_price=541"
     },
     {
       "origin": "ALC",
@@ -6560,17 +6549,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "LED",
-      "price": 554,
-      "airline": "VY",
-      "departure": "2027-01-25",
-      "return": "2027-02-05",
-      "days": 11,
-      "transfers": 2,
-      "link": "https://www.aviasales.com/search/ALC2501LED05021?t=PC18008601001800973800001775ALCBCNSAWLED18018417001801911000001275LEDSAWBCNALC_f5fc573c866e3b2d2a796a12047c2dd9_50811&search_date=12112026&expected_price_uuid=01a1cfda-73df-8030-a737-39cf3710647f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NJ6pVT9V6kxmYVBawuBngA&expected_price_source=share&expected_price_currency=eur&expected_price=554"
-    },
-    {
-      "origin": "ALC",
       "destination": "CMB",
       "price": 554,
       "airline": "PC",
@@ -6593,28 +6571,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "LED",
-      "price": 555,
-      "airline": "HV",
-      "departure": "2027-01-30",
-      "return": "2027-02-20",
-      "days": 21,
-      "transfers": 2,
-      "link": "https://www.aviasales.com/search/ALC3001LED20021?t=PC18013044001801445100002225ALCNRNDUSSAWLED18030906001803122400000650LEDSAWALC_6bc804ff98c48311ffdae4259336a48b_50703&search_date=14112026&expected_price_uuid=01a1d7f6-87ed-8031-2c6f-435455ca4d67&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NiyNMuJ8e7xEfL3O3QtUcg&expected_price_source=share&expected_price_currency=eur&expected_price=555"
-    },
-    {
-      "origin": "ALC",
-      "destination": "LED",
-      "price": 556,
-      "airline": "AT",
-      "departure": "2026-11-27",
-      "return": "2026-12-12",
-      "days": 15,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC2711LED12121?t=AT17957817001795848900001000ALCCMNLED17970426001797074400000650LEDSAWALC_b09380c5d9e736842588c56fb3bdcbe2_50655&search_date=13112026&expected_price_uuid=01a1d618-521c-8030-ec33-ca9565012c1e&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=JDp42IrEC9h28wCDPT9lyA&expected_price_source=share&expected_price_currency=eur&expected_price=556"
-    },
-    {
-      "origin": "ALC",
       "destination": "MOW",
       "price": 557,
       "airline": "VY",
@@ -6623,28 +6579,6 @@
       "days": 12,
       "transfers": 2,
       "link": "https://www.aviasales.com/search/ALC2211MOW04121?t=SU17953308001795416600001310ALCALGSAWISTSVO17963433001796383200000785SVOISTSAWALC_98ece42f33d2545d00ff3e10dadea6bd_50898&search_date=15112026&expected_price_uuid=01a1df0b-dab7-8030-21e4-90bf108a350d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=ETC9_QLiXvB5zuUZIWUp0w&expected_price_source=share&expected_price_currency=eur&expected_price=557"
-    },
-    {
-      "origin": "ALC",
-      "destination": "BZO",
-      "price": 559,
-      "airline": "VY",
-      "departure": "2027-01-13",
-      "return": "2027-01-25",
-      "days": 12,
-      "transfers": 2,
-      "link": "https://www.aviasales.com/search/ALC1301BZO25011?t=EW17998368001799928600001530ALCBCNCDGBZO18008901001801051800002695BZODUSPMIALC_ba7c26f55c45ed5ecce03d05616f2f32_51943&search_date=10112026&expected_price_uuid=01a1c72c-03a5-8030-6579-3a5b374ecd4f&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jaKBlk8PieGSIYln1trBLg&expected_price_source=share&expected_price_currency=eur&expected_price=559"
-    },
-    {
-      "origin": "ALC",
-      "destination": "MOW",
-      "price": 564,
-      "airline": "PC",
-      "departure": "2027-01-06",
-      "return": "2027-01-14",
-      "days": 8,
-      "transfers": 2,
-      "link": "https://www.aviasales.com/search/ALC0601MOW14011?t=PC17992383001799310600001085ALCSAWEVNVKO17998962001800000300001855VKOSAWBIOALC_8342234d8cde6a788184800b285c60ce_52198&search_date=09112026&expected_price_uuid=01a1c22b-ecff-8031-2a9c-79f14dcf3189&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=CXbEe72yio1Ka-8n1JbRww&expected_price_source=share&expected_price_currency=eur&expected_price=564"
     },
     {
       "origin": "RMU",
@@ -6670,39 +6604,6 @@
     },
     {
       "origin": "ALC",
-      "destination": "LED",
-      "price": 575,
-      "airline": "PC",
-      "departure": "2027-01-14",
-      "return": "2027-01-16",
-      "days": 2,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC1401LED16011?t=VF17999295001800023400001445ALCSAWLED18000705001800175500001870LEDSAWISTBUDALC_7551cadb37bd5ee6f82a25ba6c5bc4fa_53007&search_date=11112026&expected_price_uuid=01a1c80a-4f59-8030-af79-7e2901e22467&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iJxBJrHJ1Z-8nKWASeriEQ&expected_price_source=share&expected_price_currency=eur&expected_price=575"
-    },
-    {
-      "origin": "ALC",
-      "destination": "MOW",
-      "price": 575,
-      "airline": "PC",
-      "departure": "2027-01-14",
-      "return": "2027-01-20",
-      "days": 6,
-      "transfers": 1,
-      "link": "https://www.aviasales.com/search/ALC1401MOW20011?t=PC17999295001799978700000700ALCSAWVKO18004146001800444000000610VKOSAWALC_12938beb7254b486722dc77e865ee8c3_52727&search_date=12112026&expected_price_uuid=01a1cf8b-5053-8030-a5fb-b0ff601826e6&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=DHNrRR8GzdA2YJtuvvurrQ&expected_price_source=share&expected_price_currency=eur&expected_price=575"
-    },
-    {
-      "origin": "ALC",
-      "destination": "BZO",
-      "price": 610,
-      "airline": "VY",
-      "departure": "2027-01-14",
-      "return": "2027-01-25",
-      "days": 11,
-      "transfers": 2,
-      "link": "https://www.aviasales.com/search/ALC1401BZO25011?t=VY17999562001800046200001500ALCBCNBERBZO18008901001801051800002695BZODUSPMIALC_4e78a25c7bb0bb1edb3846b9613c5334_56598&search_date=10112026&expected_price_uuid=01a1c72b-fca7-8030-2ca6-eb9499a3eb25&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=EmXmXPOJ2-KBVdu44EJZdg&expected_price_source=share&expected_price_currency=eur&expected_price=610"
-    },
-    {
-      "origin": "ALC",
       "destination": "SVX",
       "price": 611,
       "airline": "PC",
@@ -6711,6 +6612,17 @@
       "days": 28,
       "transfers": 2,
       "link": "https://www.aviasales.com/search/ALC2411SVX22121?t=PC17955231001795664700002120ALCSAWISTKRRSVX17979228001798024800001940SVXMRVISTSAWALC_c233aea832694d66d9a02ce2e8b92ccb_55892&search_date=12112026&expected_price_uuid=01a1d145-00a5-8031-2133-57d9ec99d80d&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7ZzeuEj23Tch-Mu4sJICkw&expected_price_source=share&expected_price_currency=eur&expected_price=611"
+    },
+    {
+      "origin": "ALC",
+      "destination": "MOW",
+      "price": 635,
+      "airline": "PC",
+      "departure": "2026-11-24",
+      "return": "2026-12-29",
+      "days": 35,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC2411MOW29121?t=DP17955231001795643100001880ALCSAWISTVKO17985312001798629600001760VKOISTSAWALC_b61d90eba87570475fb61bf8d1779fc2_58802&search_date=09112026&expected_price_uuid=01a1c12d-c8e0-8030-6901-0cdd58cae179&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=vkrGEcGyEr0Ys5Dbc9W6uQ&expected_price_source=share&expected_price_currency=eur&expected_price=635"
     },
     {
       "origin": "ALC",
@@ -6725,14 +6637,36 @@
     },
     {
       "origin": "ALC",
-      "destination": "YVR",
-      "price": 651,
-      "airline": "VY",
-      "departure": "2027-01-11",
-      "return": "2027-01-26",
-      "days": 15,
-      "transfers": 2,
-      "link": "https://www.aviasales.com/search/ALC1101YVR26011?t=WS17996961001799827800002675ALCORYCDGYYCYVR18009864001801149000002230YVRYYCLHRLTNFCOALC_29b52286a87fc8ae93d088c795f2e3a0_59476&search_date=14112026&expected_price_uuid=01a1db5f-fb3d-8030-e7f8-ff642bfaad01&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=WVIRbN4VJMPJrSD_PQE5gQ&expected_price_source=share&expected_price_currency=eur&expected_price=651"
+      "destination": "MOW",
+      "price": 664,
+      "airline": "PC",
+      "departure": "2026-11-27",
+      "return": "2026-12-19",
+      "days": 22,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC2711MOW19121?t=PC17957823001795882800001555ALCSAWVKO17976498001797679200000610VKOSAWALC_1f14bf6756f8150db1b9ad1d356cd727_60186&search_date=13112026&expected_price_uuid=01a1d4b5-0463-8030-6893-0f8a2091663c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QCi7fXdvH-7-W89c2uLayQ&expected_price_source=share&expected_price_currency=eur&expected_price=664"
+    },
+    {
+      "origin": "ALC",
+      "destination": "LED",
+      "price": 666,
+      "airline": "PC",
+      "departure": "2026-11-25",
+      "return": "2026-12-12",
+      "days": 17,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC2511LED12121?t=AT17956095001795656300000660ALCSAWLED17970627001797160200001745LEDCMNALC_87149a9ad667bd6c47184dfb7cb90ca6_61681&search_date=10112026&expected_price_uuid=01a1c628-f98c-8031-66ff-1f5196da80f8&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=iayU8dcZcNDGwa9eiLEwrQ&expected_price_source=share&expected_price_currency=eur&expected_price=666"
+    },
+    {
+      "origin": "ALC",
+      "destination": "MOW",
+      "price": 682,
+      "airline": "PC",
+      "departure": "2026-11-28",
+      "return": "2027-01-07",
+      "days": 40,
+      "transfers": 1,
+      "link": "https://www.aviasales.com/search/ALC2811MOW07011?t=PC17958687001795969200001555ALCSAWVKO17993427001799407200001195VKOSAWALC_dcb713e9d6c4a03341090a65bf403d02_62431&search_date=12112026&expected_price_uuid=01a1d102-d3c8-8030-ebc8-5deac22d4cc1&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=2GbEyLgFa67o4H54k2QzEw&expected_price_source=share&expected_price_currency=eur&expected_price=682"
     },
     {
       "origin": "RMU",
@@ -6744,6 +6678,72 @@
       "days": 2,
       "transfers": 3,
       "link": "https://www.aviasales.com/search/RMU2511DXB27111?t=PC17956113001795745700002060RMULPAMADSAWDXB17957568001795955100003485SHJSAWBCNRMU_d9bdbee97e39d534e9c7e8be4319a540_67455&search_date=11112026&expected_price_uuid=01a1cae2-3f6a-8031-69df-c70f84ff22aa&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=eokezrryNafFzVTXOnqd5A&expected_price_source=share&expected_price_currency=eur&expected_price=734"
+    },
+    {
+      "origin": "ALC",
+      "destination": "OVB",
+      "price": 797,
+      "airline": "V7",
+      "departure": "2026-11-30",
+      "return": "2026-12-30",
+      "days": 30,
+      "transfers": 3,
+      "link": "https://www.aviasales.com/search/ALC3011OVB30121?t=VF17960748001796229600002220ALCBIOSAWNQZOVB17985945001798716000002385OVBNQZESBSAWALC_8a8569b30872b63b6a427c95001b005b_73080&search_date=12112026&expected_price_uuid=01a1d0cf-6ecd-8030-aed1-18e2e8c39a05&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=1oDJLXmjsW3eyEW0cKb7GQ&expected_price_source=share&expected_price_currency=eur&expected_price=797"
+    },
+    {
+      "origin": "ALC",
+      "destination": "KTW",
+      "price": 846,
+      "airline": "FR",
+      "departure": "2026-11-16",
+      "return": "2026-11-16",
+      "days": 0,
+      "transfers": 0,
+      "link": "https://www.aviasales.com/search/ALC1611KTW16111?t=UX17948490001794860400000190ALCKTW17948682001794989400002020KTWTLVMADALC_5b79d813b30f74c0f1d9b72736de7048_77098&search_date=13112026&expected_price_uuid=01a1d688-5c89-8030-6886-e603d83e1a1c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=W3oAcJWGD4oe6ptz3mAoXA&expected_price_source=share&expected_price_currency=eur&expected_price=846"
+    },
+    {
+      "origin": "ALC",
+      "destination": "LED",
+      "price": 887,
+      "airline": "UX",
+      "departure": "2026-11-25",
+      "return": "2026-12-10",
+      "days": 15,
+      "transfers": 2,
+      "link": "https://www.aviasales.com/search/ALC2511LED10121?t=TK17956395001795736100001490ALCMADISTLED17969169001796988000001305LEDSAWALC_ff82e55cd5912112937e5503b1738463_82178&search_date=10112026&expected_price_uuid=01a1c628-9233-8031-2ea3-b4882a75f293&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=5MBn2NDI_CVZJpMRTnDgnQ&expected_price_source=share&expected_price_currency=eur&expected_price=887"
+    },
+    {
+      "origin": "ALC",
+      "destination": "MLE",
+      "price": 968,
+      "airline": "VY",
+      "departure": "2026-11-22",
+      "return": "2026-12-10",
+      "days": 18,
+      "transfers": 2,
+      "link": "https://www.aviasales.com/search/ALC2211MLE10121?t=QR17953347001795420200001185ALCBCNDOHMLE17969367001797012600001505MLEDOHAMSALC_c1ea4f7fcaf632557842eae38a1eec28_87856&search_date=13112026&expected_price_uuid=01a1d580-6844-8030-22f2-e1964c5bdf6d&static_fare_key=TY%7CP0%7CH1%7CL1_1_25%7CCH1%7CR1%7CTBC1&itinerary_key=C9KMJn-PFP7QhAHOZcXn8A&expected_price_source=share&expected_price_currency=eur&expected_price=968"
+    },
+    {
+      "origin": "ALC",
+      "destination": "LAS",
+      "price": 1177,
+      "airline": "WK",
+      "departure": "2026-11-30",
+      "return": "2027-01-01",
+      "days": 32,
+      "transfers": 2,
+      "link": "https://www.aviasales.com/search/ALC3011LAS01011?t=UA17960682001796145060001821ALCZRHORDLAS17988168001798995900002445LASSFOFRAALC_82d38b019cf2c7ccb9ec2af08c2a7948_107583&search_date=15112026&expected_price_uuid=01a1dcb4-5e58-8030-2c0d-4b254443239c&static_fare_key=TY%7CP1%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=fx3niUKA6MLpYhEVEwRpDA&expected_price_source=share&expected_price_currency=eur&expected_price=1177"
+    },
+    {
+      "origin": "ALC",
+      "destination": "MEX",
+      "price": 1191,
+      "airline": "VY",
+      "departure": "2026-11-16",
+      "return": "2026-12-06",
+      "days": 20,
+      "transfers": 3,
+      "link": "https://www.aviasales.com/search/ALC1611MEX06121?t=AM17948577001795019340003114ALCORYCDGYYCPVRNLU17965560001796655000001230MEXMADMANALC_7ad8004744e06341718fe41400d2c774_108833&search_date=15112026&expected_price_uuid=01a1dfb3-e6bd-8031-2286-9f5b36244eef&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=QRQNJxSpS_nAxOl2F6vhww&expected_price_source=share&expected_price_currency=eur&expected_price=1191"
     }
   ]
 }
